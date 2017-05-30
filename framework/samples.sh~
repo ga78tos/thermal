@@ -8,21 +8,27 @@ sudo echo 768000 > /sys/devices/system/cpu/cpu1/cpufreq/scaling_setspeed
 sudo echo 768000 > /sys/devices/system/cpu/cpu2/cpufreq/scaling_setspeed
 sudo echo 768000 > /sys/devices/system/cpu/cpu3/cpufreq/scaling_setspeed
 
-for i in 0 1 2 3 4 5 6 7 8 9
+for j in 00 01 02 03 04 05 06 07 08 09 10 11 12
 do
 
- sudo echo 768000 > /sys/devices/system/cpu/cpu0/cpufreq/scaling_setspeed
+	for i in 0 1 2 3 4 5 6 7 8 9
+	do
 
- temp=0
- while [ "$temp" -ne 44000 ]
- do
-  sleep 5
-  temp="$(sudo cat /sys/class/thermal/thermal_zone0/temp)"
-  echo "$temp"
- done
+		sudo echo 768000 > /sys/devices/system/cpu/cpu0/cpufreq/scaling_setspeed
 
- sudo ./run_program.sh
- #change path to wherever you want the results to be saved
- cp ./example_temprature_trace.csv ../theraml_samples/0/trace_${i}.csv
- cp ./out.png ../thermal_samples/0/trace_${i}.png
+		temp=0
+		while [ "$temp" -ne 44000 ]
+		do
+			sleep 5
+			temp="$(sudo cat /sys/class/thermal/thermal_zone0/temp)"
+			echo "$temp"
+		done
+
+		sudo ./main ./schedules/sched${j}.xml
+		python scr.py
+
+		cp ./example_temprature_trace.csv ../gmpt_scheds/${j}/trace_${i}.csv
+		cp ./out.png ../gmpt_scheds/${j}/trace_${i}.png
+	done
+
 done
