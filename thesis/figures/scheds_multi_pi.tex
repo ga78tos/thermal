@@ -1,0 +1,46 @@
+\begin{table}[htpb]
+ \centering
+ \begin{threeparttable}
+ \setlength\tabcolsep{3pt}
+ \caption[Single-Task Pi schedules]{Raspberry Pi schedules for different multi-task workloads}\label{app:t_mmpt_pi}
+ \begin{tabular}{||c||l l l l l|l l||} 
+ \hline
+ Workload\tnote{a} & \multicolumn{5}{c|}{GMPT\tnote{b}} & \multicolumn{2}{c||}{PMPT\tnote{b}} \\ [0.5ex]  
+ \hline\hline
+WL 1 & ((20, 1), & (1, 0.4), & (6, 0.6), & (4, 1)) & & ((1, 0), & (28, 1))\\
+\hline
+WL 2 & ((5, 1), & (1, 0.8), & (21, 0.6), & (2, 1)) & & ((7, 0), & (22, 1))\\
+\hline
+WL 3 & ((15, 0.4), & (30, 0.6)) & & & & ((7, 0), & (11.5))\\
+\hline
+WL 4 & ((44, 0.6), & (11, 0)) & & & & ((13, 0), & (16, 1))\\
+\hline
+WL 5 & ((31, 0.4)) & & & & & ((12, 0), & (11, 1))\\
+\hline
+WL 6 & ((1, 0.6), & (23, 0.8), & (24, 0), & (1, 1)) & & ((25, 0), & (21, 1))\\
+\hline
+WL 7 & ((21, 0), & (2, 0.8), & (18, 1), & (1, 0.4), & (5, 0)) & ((25, 0), & (21, 1))\\
+\hline
+WL 8 & ((1, 0), & (2, 0.6), & (9, 1), & (17, 0)) & & ((18, 0), & (11, 1))\\
+\hline
+WL 9 & ((20, 0), & (6, 0.8), & (6, 1), & (1, 0.8)) & & ((22, 0), & (13.5))\\
+\hline
+WL 10 & ((11, 0), & (1, 1), & (12, 0.4), & (7, 1), & (10, 0)) & ((18, 0), & (9.4))\\
+\hline
+WL 11 & ((1, 0.4), & (11, 1), & (1, 0.8), & (1, 0.4), & (23, 0)) & ((19, 0), & (9.4))\\
+\hline
+WL 12 & ((1, 0.4), & (4, 0.8), & (23, 0), & (6, 1)) & & ((24, 0), & (10.5))\\
+\hline
+WL 13 & ((1, 0), & (9, 0.8), & (17, 0)) & & & ((25, 0), & (10.5))\\
+\hline
+WL 14 & ((4, 1), & (23, 0), & (1, 0.4), & (4, 1), & (2, 0.6)) & ((20, 0), & (8, 1))\\
+\hline
+WL 15 & ((23, 0), & (4, 1), & (1, 0.4), & (4, 1)) & & ((20, 0), & (8, 1))\\
+\hline
+\end{tabular}
+\begin{tablenotes}
+\item [a] Workload and the according schedules are sorted from highest to lowest.
+\item [b] Each schedule consists of timeslots represented as tuples in the format\\(<duration [ms]>, <frequency setting>).
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

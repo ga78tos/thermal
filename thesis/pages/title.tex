@@ -1,0 +1,38 @@
+\afterpage{\blankpage}
+\begin{titlepage}
+  \centering
+
+  \IfFileExists{logos/tum.pdf}{%
+    \includegraphics[height=20mm]{logos/tum.pdf}
+  }{%
+  }
+  \oTUM{4cm}
+
+  \vspace{5mm}
+  {\huge\MakeUppercase{\getFaculty{}}}\\
+
+  \vspace{5mm}
+  {\large\MakeUppercase{\getUniversity{}}}\\
+
+  \vspace{20mm}
+  {\Large \getDoctype{}}
+
+  \vspace{15mm}
+  {\LARGE \getTitle{}}
+
+  \vspace{10mm}
+  {\LARGE \foreignlanguage{ngerman}{\getTitleGer{}}}
+
+  \vspace{15mm}
+  \begin{tabular}{l l}
+    Author:          & \getAuthor{} \\
+    Supervisor:      & \getSupervisor{} \\
+    Advisor:         & \getAdvisor{} \\
+    Submission Date: & \getSubmissionDate{} \\
+  \end{tabular}
+
+  \IfFileExists{figures/informat.png}{%
+    \vfill{}
+    \includegraphics[height=40mm]{figures/informat.png}
+  }{}
+\end{titlepage}

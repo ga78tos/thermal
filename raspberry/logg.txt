@@ -1,0 +1,52 @@
+    41318
+    0
+Mon 10 Apr 10:03:05 UTC 2017
+times= 5
+times= 11
+800000#600
+freq= 800000
+1200000#1000
+freq= 1200000
+size= 2
+TempWatcher: 98 waiting for initialization
+TempWatcher: 98 begining execution 
+#############scheduling start
+tons2:		11		toffs2:		0
+ton:		11000		toff:		0
+receives a schedule signal, break from active
+TempWatcher 98 exiting wrapper...
+    42932
+    0
+Mon 10 Apr 10:04:26 UTC 2017
+times= 20
+times= 21
+times= 27
+times= 31
+1200000#1000
+freq= 1200000
+600000#400
+freq= 600000
+800000#600
+freq= 800000
+1200000#1000
+freq= 1200000
+size= 4
+TempWatcher: 98 waiting for initialization
+TempWatcher: 98 begining execution 
+#############scheduling start
+tons2:		31		toffs2:		0
+ton:		31000		toff:		0
+receives a schedule signal, break from active
+TempWatcher 98 exiting wrapper...
+    44007
+    0
+Mon 10 Apr 10:05:47 UTC 2017
+times= 19
+1200000#1000
+freq= 1200000
+size= 1
+TempWatcher: 98 waiting for initialization
+TempWatcher: 98 begining execution 
+#############scheduling start
+tons2:		19		toffs2:		2
+ton:		19000		toff:		2000

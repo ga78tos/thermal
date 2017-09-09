@@ -1,0 +1,64 @@
+\begin{figure}[H]
+  \centering
+
+  \pgfplotstableset{col sep=&, row sep=\\}
+  % This should probably go into a file in data/
+  \pgfplotstableread{
+    a & b    \\
+    0 & 0 \\
+    2 & 2 \\
+    3 & 6 \\
+    4 & 8 \\
+    6 & 9.5 \\
+    7 & 13 \\
+    8 & 15 \\
+    10 & 16 \\
+    11 & 18 \\
+    12 & 19 \\
+    14 & 19.5 \\
+    15 & 20.5 \\
+    16 & 21 \\
+    18 & 21 \\
+    19 & 21.8 \\
+    20 & 22 \\
+    22 & 21.5 \\
+    23 & 22 \\
+    24 & 22 \\
+    26 & 21.5 \\
+    27 & 22 \\
+    28 & 22 \\
+    30 & 21.5 \\
+    31 & 22 \\
+  }\exampleA
+  \pgfplotstableread{
+    a & b    \\
+    0 & 22 \\
+    31 & 22 \\
+  }\exampleB
+  \pgfplotstableread{
+    a & b    \\
+    0 & 21.5 \\
+    31 & 21.5 \\
+  }\exampleC
+  % This should probably go into a file in figures/
+  \begin{tikzpicture}
+    \begin{axis}[
+        ymin=0,
+        legend style={legend pos=south east},
+        legend cell align={left},
+        grid,
+        thick,
+        ylabel=Temperature,
+        xlabel=Time,
+        yticklabels={,,},
+        xticklabels={,,}
+      ]
+      \addplot [red, dashed] table[x=a, y=b]{\exampleB};
+      \addlegendentry{$T^{st}_2=T^{st}_3$};
+      \addplot [orange, dashed] table[x=a, y=b]{\exampleC};
+      \addlegendentry{$T^{st}_1$};
+      \addplot [blue] table[x=a, y=b]{\exampleA};
+    \end{axis}
+  \end{tikzpicture}
+  \caption[GMPT Temperature Development]{Possible temperature development for schedule depicted in \autoref{fig:i_sched_gmpt}}\label{fig:i_gmpt}
+\end{figure}

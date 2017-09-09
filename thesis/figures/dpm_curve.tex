@@ -1,0 +1,65 @@
+\begin{figure}[htpb]
+  \centering
+
+  \pgfplotstableset{col sep=&, row sep=\\}
+  % This should probably go into a file in data/
+  \pgfplotstableread{
+    a & b    \\
+    0 & 0 \\
+    3 & 3 \\
+    5 & 4 \\
+    10 & 3 \\
+    11.5 & 4.3 \\
+    13 & 5 \\
+    16 & 4 \\
+    18 & 5 \\
+    20 & 5.5 \\
+    23 & 4.5 \\
+  }\exampleA
+  \pgfplotstableread{
+    a & b    \\
+    0 & 0 \\
+    1 & 0.8 \\
+    2 & 0.7 \\
+    3 & 2 \\
+    4 & 1.9 \\
+    5 & 3 \\
+    6 & 2.9 \\
+    7 & 3.4 \\
+    8 & 3.2 \\
+    9 & 3.75 \\
+    10 & 3.5 \\
+    11 & 4 \\
+    12 & 3.75 \\
+    13 & 4.25 \\
+    14 & 4 \\
+    15 & 4.5 \\
+    16 & 4.25 \\
+    17 & 4.65 \\
+    18 & 4.5 \\
+    19 & 4.8 \\
+    20 & 4.6 \\
+    21 & 4.9 \\
+    22 & 4.7 \\
+    23 & 4.9 \\
+  }\exampleB
+  % This should probably go into a file in figures/
+  \begin{tikzpicture}
+    \begin{axis}[
+        ymin=0,
+        legend style={legend pos=south east},
+        grid,
+        thick,
+        ylabel=Temperature,
+        xlabel=Time,
+        yticklabels={,,},
+        xticklabels={,,}
+      ]
+      \addplot table[x=a, y=b]{\exampleA};
+      \addlegendentry{Approach A};
+      \addplot table[x=a, y=b]{\exampleB};
+      \addlegendentry{Approach B};
+    \end{axis}
+  \end{tikzpicture}
+  \caption[DPM Temperature Development]{Temperature Development for Approach A and B}\label{fig:i_dpm}
+\end{figure}

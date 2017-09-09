@@ -1,0 +1,65 @@
+\RequirePackage[l2tabu,orthodox]{nag}
+
+% TODO: decide if one-sided/two-sided
+%\documentclass[headsepline,footsepline,footinclude=false,fontsize=11pt,paper=a4,listof=totoc,bibliography=totoc,BCOR=12mm,DIV=12]{scrbook} % two-sided
+\documentclass[headsepline,footsepline,footinclude=false,oneside,fontsize=11pt,paper=a4,listof=totoc,bibliography=totoc]{scrbook} % one-sided
+
+% TODO: change citation style in settings
+\input{settings}
+
+% TODO: change thesis information
+\newcommand*{\getUniversity}{Technische Universität München}
+\newcommand*{\getFaculty}{Department of Informatics}
+\newcommand*{\getTitle}{Genetic Algorithm for Hard Real‐time Thermal‐aware Scheduling on Hardware Platform}
+\newcommand*{\getTitleGer}{Genetic Algorithm für wärmebewusstes Echtzeitscheduling auf einer Hardware Plattform}
+\newcommand*{\getAuthor}{Manuel Dell'Antonio}
+\newcommand*{\getDoctype}{Bachelor's Thesis in Informatics}
+\newcommand*{\getSupervisor}{Prof. Dr.-Ing. habil. Alois Knoll}
+\newcommand*{\getAdvisor}{Mingchuan Zhou, M.Sc.}
+\newcommand*{\getSubmissionDate}{August 15, 2017}
+\newcommand*{\getSubmissionLocation}{Munich}
+
+\begin{document}
+
+% Set page numbering to avoid "destination with the same identifier has been already used" warning for cover page.
+% (see https://en.wikibooks.org/wiki/LaTeX/Hyperlinks#Problems_with_Links_and_Pages).
+\pagenumbering{alph}
+\input{pages/cover}
+
+\frontmatter{}
+
+\input{pages/title}
+\input{pages/disclaimer}
+\input{pages/acknowledgements}
+\input{pages/abstract}
+\leavevmode\thispagestyle{empty}\newpage
+\microtypesetup{protrusion=false}
+\tableofcontents{}
+\microtypesetup{protrusion=true}
+
+\mainmatter{}
+
+\input{chapters/01_introduction}
+\input{chapters/02_background}
+\input{chapters/03_approach}
+\input{chapters/04_results}
+\input{chapters/05_conclusion}
+\input{chapters/06_future_work}
+% TODO: add more chapters here
+
+\appendix
+\input{chapters/appendix}
+
+\microtypesetup{protrusion=false}
+\listoffigures{}
+\leavevmode\thispagestyle{empty}\newpage
+\listoftables{}
+\leavevmode\thispagestyle{empty}\newpage
+\microtypesetup{protrusion=true}
+\printbibliography{}
+\leavevmode\thispagestyle{empty}\newpage
+\leavevmode\thispagestyle{empty}\newpage
+\leavevmode\thispagestyle{empty}\newpage
+\leavevmode\thispagestyle{empty}\newpage
+
+\end{document}

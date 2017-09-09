@@ -1,0 +1,3308 @@
+times= 20
+times= 50
+1200000#1000
+freq= 1200000
+800000#600
+freq= 750000
+size= 2
+TempWatcher: 98 waiting for initialization
+TempWatcher: 98 begining execution 
+#############scheduling start
+####setfreq time:				5241
+####setfreq time:				5514
+tons2:		50		toffs2:		0
+ton:		50000		toff:		0
+disp: 13
+receives a schedule signal, break from active
+####setfreq time:				7106
+####setfreq time:				5443
+####setfreq time:				7038
+####setfreq time:				5461
+temp: 581
+disp: 11
+####setfreq time:				7107
+####setfreq time:				5477
+####setfreq time:				7118
+####setfreq time:				5493
+disp: 12
+####setfreq time:				7089
+####setfreq time:				5460
+####setfreq time:				7150
+####setfreq time:				5496
+temp: 584
+disp: 10
+####setfreq time:				7088
+####setfreq time:				5498
+####setfreq time:				7156
+####setfreq time:				5456
+disp: 12
+####setfreq time:				8564
+####setfreq time:				5396
+####setfreq time:				7166
+####setfreq time:				5468
+temp: 579
+disp: 10
+####setfreq time:				7161
+####setfreq time:				5543
+####setfreq time:				7123
+####setfreq time:				5502
+disp: 14
+####setfreq time:				7078
+####setfreq time:				5464
+####setfreq time:				7153
+####setfreq time:				5471
+temp: 541
+disp: 12
+####setfreq time:				7053
+####setfreq time:				5466
+####setfreq time:				7177
+####setfreq time:				5506
+disp: 15
+####setfreq time:				7126
+####setfreq time:				5479
+####setfreq time:				7180
+temp: 431
+####setfreq time:				6038
+disp: 11
+####setfreq time:				7109
+####setfreq time:				5485
+####setfreq time:				7162
+####setfreq time:				5568
+disp: 11
+####setfreq time:				7074
+####setfreq time:				5523
+####setfreq time:				7120
+temp: 436
+####setfreq time:				5493
+disp: 14
+####setfreq time:				7076
+####setfreq time:				5503
+####setfreq time:				7132
+####setfreq time:				5477
+disp: 10
+####setfreq time:				7255
+####setfreq time:				7169
+####setfreq time:				7042
+temp: 410
+####setfreq time:				5431
+disp: 15
+####setfreq time:				7145
+####setfreq time:				5475
+####setfreq time:				7111
+####setfreq time:				5438
+disp: 10
+####setfreq time:				7209
+####setfreq time:				5403
+temp: 608
+####setfreq time:				7902
+####setfreq time:				5409
+disp: 14
+####setfreq time:				7128
+####setfreq time:				5512
+####setfreq time:				7091
+####setfreq time:				5493
+disp: 11
+####setfreq time:				7230
+####setfreq time:				5452
+temp: 623
+####setfreq time:				7110
+####setfreq time:				5498
+disp: 13
+####setfreq time:				7138
+####setfreq time:				5463
+####setfreq time:				7090
+####setfreq time:				5457
+disp: 10
+####setfreq time:				7138
+####setfreq time:				5402
+temp: 575
+####setfreq time:				7017
+####setfreq time:				5459
+disp: 12
+####setfreq time:				7157
+####setfreq time:				5447
+####setfreq time:				7077
+####setfreq time:				5419
+disp: 15
+####setfreq time:				7198
+####setfreq time:				5413
+temp: 584
+####setfreq time:				7101
+####setfreq time:				5477
+disp: 11
+####setfreq time:				7128
+####setfreq time:				5401
+####setfreq time:				7069
+####setfreq time:				5370
+disp: 11
+####setfreq time:				7115
+####setfreq time:				5357
+temp: 595
+####setfreq time:				7131
+####setfreq time:				5344
+disp: 11
+####setfreq time:				7055
+####setfreq time:				5390
+####setfreq time:				7110
+####setfreq time:				5359
+disp: 10
+####setfreq time:				7009
+####setfreq time:				5348
+temp: 563
+####setfreq time:				7134
+####setfreq time:				5399
+disp: 13
+####setfreq time:				6959
+####setfreq time:				5364
+####setfreq time:				6995
+####setfreq time:				5319
+disp: 10
+####setfreq time:				7031
+temp: 455
+####setfreq time:				5921
+####setfreq time:				7025
+####setfreq time:				5342
+disp: 11
+####setfreq time:				7046
+####setfreq time:				5413
+####setfreq time:				7814
+####setfreq time:				5284
+disp: 13
+####setfreq time:				7085
+temp: 431
+####setfreq time:				5263
+####setfreq time:				7001
+####setfreq time:				5336
+disp: 11
+####setfreq time:				7041
+####setfreq time:				5334
+####setfreq time:				7017
+####setfreq time:				5267
+disp: 13
+####setfreq time:				7074
+temp: 407
+####setfreq time:				5307
+####setfreq time:				6921
+####setfreq time:				5264
+disp: 11
+####setfreq time:				7032
+####setfreq time:				5354
+####setfreq time:				6946
+####setfreq time:				5297
+disp: 10
+temp: 661
+####setfreq time:				7748
+####setfreq time:				5277
+####setfreq time:				6924
+####setfreq time:				5347
+disp: 11
+####setfreq time:				7009
+####setfreq time:				5265
+####setfreq time:				6948
+####setfreq time:				5336
+disp: 11
+temp: 598
+####setfreq time:				6878
+####setfreq time:				5326
+####setfreq time:				6884
+####setfreq time:				5347
+disp: 15
+####setfreq time:				6980
+####setfreq time:				5247
+####setfreq time:				6858
+####setfreq time:				5308
+temp: 591
+disp: 10
+####setfreq time:				6935
+####setfreq time:				5268
+####setfreq time:				6899
+####setfreq time:				6803
+disp: 10
+####setfreq time:				6910
+####setfreq time:				5270
+####setfreq time:				6896
+####setfreq time:				5273
+temp: 598
+disp: 14
+####setfreq time:				6898
+####setfreq time:				5279
+####setfreq time:				6872
+####setfreq time:				5264
+disp: 11
+####setfreq time:				6969
+####setfreq time:				5227
+####setfreq time:				6928
+####setfreq time:				5188
+temp: 603
+disp: 10
+####setfreq time:				6923
+####setfreq time:				5311
+####setfreq time:				6843
+####setfreq time:				5248
+disp: 15
+####setfreq time:				6888
+####setfreq time:				5261
+####setfreq time:				6857
+####setfreq time:				5280
+temp: 572
+disp: 11
+####setfreq time:				7018
+####setfreq time:				5261
+####setfreq time:				6969
+####setfreq time:				5240
+disp: 14
+####setfreq time:				6898
+####setfreq time:				5206
+####setfreq time:				7004
+temp: 429
+####setfreq time:				5720
+disp: 12
+####setfreq time:				6872
+####setfreq time:				5320
+####setfreq time:				6904
+####setfreq time:				5259
+disp: 11
+####setfreq time:				6996
+####setfreq time:				5211
+####setfreq time:				6848
+temp: 415
+####setfreq time:				5275
+disp: 15
+####setfreq time:				6887
+####setfreq time:				5233
+####setfreq time:				6950
+####setfreq time:				5244
+disp: 11
+####setfreq time:				6902
+####setfreq time:				5202
+####setfreq time:				6878
+temp: 422
+####setfreq time:				5212
+disp: 14
+####setfreq time:				6876
+####setfreq time:				5300
+####setfreq time:				6874
+####setfreq time:				5267
+disp: 10
+####setfreq time:				6913
+####setfreq time:				5157
+temp: 568
+####setfreq time:				7631
+####setfreq time:				5251
+disp: 23
+####setfreq time:				6886
+####setfreq time:				5231
+####setfreq time:				6933
+####setfreq time:				5249
+disp: 10
+####setfreq time:				8592
+####setfreq time:				5289
+temp: 575
+####setfreq time:				6842
+####setfreq time:				5334
+disp: 14
+####setfreq time:				6855
+####setfreq time:				5286
+####setfreq time:				6947
+####setfreq time:				5295
+disp: 11
+####setfreq time:				6960
+####setfreq time:				5279
+temp: 610
+####setfreq time:				6998
+####setfreq time:				5292
+disp: 10
+####setfreq time:				6922
+####setfreq time:				5261
+####setfreq time:				6883
+####setfreq time:				5276
+disp: 12
+####setfreq time:				7009
+####setfreq time:				5352
+temp: 569
+####setfreq time:				6931
+####setfreq time:				5338
+disp: 11
+####setfreq time:				6901
+####setfreq time:				5409
+####setfreq time:				6829
+####setfreq time:				5345
+disp: 11
+####setfreq time:				7071
+####setfreq time:				5343
+temp: 572
+####setfreq time:				6965
+####setfreq time:				5294
+disp: 12
+####setfreq time:				7009
+####setfreq time:				5378
+####setfreq time:				7055
+####setfreq time:				5354
+disp: 10
+####setfreq time:				6897
+####setfreq time:				5413
+temp: 595
+####setfreq time:				6965
+####setfreq time:				5403
+disp: 15
+####setfreq time:				6981
+####setfreq time:				7608
+####setfreq time:				7001
+####setfreq time:				5351
+disp: 10
+####setfreq time:				6999
+temp: 392
+####setfreq time:				5803
+####setfreq time:				7074
+####setfreq time:				5370
+disp: 10
+####setfreq time:				7006
+####setfreq time:				5485
+####setfreq time:				6997
+####setfreq time:				5412
+disp: 12
+####setfreq time:				6990
+temp: 440
+####setfreq time:				5422
+####setfreq time:				6982
+####setfreq time:				5403
+disp: 11
+####setfreq time:				7034
+####setfreq time:				5365
+####setfreq time:				6933
+####setfreq time:				5395
+disp: 10
+####setfreq time:				7002
+temp: 409
+####setfreq time:				5478
+####setfreq time:				6951
+####setfreq time:				5376
+disp: 10
+####setfreq time:				6901
+####setfreq time:				5456
+####setfreq time:				6952
+####setfreq time:				5456
+disp: 15
+temp: 575
+####setfreq time:				7725
+####setfreq time:				5391
+####setfreq time:				7003
+####setfreq time:				5451
+disp: 10
+####setfreq time:				7046
+####setfreq time:				5437
+####setfreq time:				7025
+####setfreq time:				5400
+disp: 11
+temp: 579
+####setfreq time:				7035
+####setfreq time:				5478
+####setfreq time:				6926
+####setfreq time:				5479
+disp: 14
+####setfreq time:				7021
+####setfreq time:				5466
+####setfreq time:				6964
+####setfreq time:				5525
+temp: 574
+disp: 11
+####setfreq time:				6960
+####setfreq time:				5540
+####setfreq time:				6930
+####setfreq time:				5467
+disp: 10
+####setfreq time:				6982
+####setfreq time:				5485
+####setfreq time:				6925
+####setfreq time:				5520
+temp: 587
+disp: 14
+####setfreq time:				6980
+####setfreq time:				5532
+####setfreq time:				6976
+####setfreq time:				5533
+disp: 11
+####setfreq time:				7013
+####setfreq time:				5456
+####setfreq time:				6973
+####setfreq time:				5479
+temp: 566
+disp: 12
+####setfreq time:				6893
+####setfreq time:				5542
+####setfreq time:				8410
+####setfreq time:				5555
+disp: 15
+####setfreq time:				6989
+####setfreq time:				5527
+####setfreq time:				6947
+temp: 596
+####setfreq time:				6239
+disp: 10
+####setfreq time:				7014
+####setfreq time:				5501
+####setfreq time:				6967
+####setfreq time:				5558
+disp: 11
+####setfreq time:				7090
+####setfreq time:				5445
+####setfreq time:				6988
+temp: 419
+####setfreq time:				5550
+disp: 14
+####setfreq time:				7008
+####setfreq time:				5502
+####setfreq time:				6996
+####setfreq time:				5449
+disp: 11
+####setfreq time:				7109
+####setfreq time:				5509
+####setfreq time:				6985
+temp: 478
+####setfreq time:				5502
+disp: 11
+####setfreq time:				7042
+####setfreq time:				5528
+####setfreq time:				7025
+####setfreq time:				5512
+disp: 11
+####setfreq time:				7203
+####setfreq time:				5592
+####setfreq time:				7019
+temp: 412
+####setfreq time:				5525
+disp: 11
+####setfreq time:				7091
+####setfreq time:				5548
+####setfreq time:				7078
+####setfreq time:				5490
+disp: 14
+####setfreq time:				7144
+####setfreq time:				5506
+temp: 594
+####setfreq time:				7762
+####setfreq time:				7383
+disp: 11
+####setfreq time:				7156
+####setfreq time:				5571
+####setfreq time:				7128
+####setfreq time:				5442
+disp: 13
+####setfreq time:				7156
+####setfreq time:				5492
+temp: 580
+####setfreq time:				7138
+####setfreq time:				5489
+disp: 11
+####setfreq time:				7060
+####setfreq time:				5498
+####setfreq time:				7157
+####setfreq time:				5485
+disp: 11
+####setfreq time:				7138
+####setfreq time:				5499
+temp: 575
+####setfreq time:				7056
+####setfreq time:				5516
+disp: 15
+####setfreq time:				7215
+####setfreq time:				5599
+####setfreq time:				7062
+####setfreq time:				5507
+disp: 11
+####setfreq time:				7186
+####setfreq time:				5497
+temp: 588
+####setfreq time:				7043
+####setfreq time:				5512
+disp: 13
+####setfreq time:				7186
+####setfreq time:				5592
+####setfreq time:				7112
+####setfreq time:				5490
+disp: 10
+####setfreq time:				7209
+####setfreq time:				5485
+temp: 571
+####setfreq time:				7097
+####setfreq time:				5485
+disp: 11
+####setfreq time:				7249
+####setfreq time:				5548
+####setfreq time:				7104
+####setfreq time:				5472
+disp: 12
+####setfreq time:				7113
+temp: 599
+####setfreq time:				6230
+####setfreq time:				7135
+####setfreq time:				5577
+disp: 11
+####setfreq time:				7183
+####setfreq time:				5620
+####setfreq time:				7126
+####setfreq time:				5483
+disp: 13
+####setfreq time:				7171
+temp: 415
+####setfreq time:				5474
+####setfreq time:				7051
+####setfreq time:				5511
+disp: 11
+####setfreq time:				7100
+####setfreq time:				5527
+####setfreq time:				7127
+####setfreq time:				5400
+disp: 11
+####setfreq time:				7147
+temp: 408
+####setfreq time:				5694
+####setfreq time:				7089
+####setfreq time:				5517
+disp: 12
+####setfreq time:				7733
+####setfreq time:				5557
+####setfreq time:				7093
+####setfreq time:				5464
+disp: 11
+####setfreq time:				7120
+temp: 3404
+####setfreq time:				5542
+####setfreq time:				7068
+####setfreq time:				5460
+disp: 13
+####setfreq time:				7151
+####setfreq time:				5506
+####setfreq time:				7055
+####setfreq time:				5498
+disp: 10
+temp: 597
+####setfreq time:				8042
+####setfreq time:				5631
+####setfreq time:				7059
+####setfreq time:				5454
+disp: 11
+####setfreq time:				7198
+####setfreq time:				5483
+####setfreq time:				7011
+####setfreq time:				5476
+disp: 11
+temp: 590
+####setfreq time:				7187
+####setfreq time:				5539
+####setfreq time:				7085
+####setfreq time:				5480
+disp: 11
+####setfreq time:				7132
+####setfreq time:				5533
+####setfreq time:				7080
+####setfreq time:				5529
+disp: 13
+temp: 684
+####setfreq time:				7163
+####setfreq time:				5560
+####setfreq time:				7061
+####setfreq time:				5538
+disp: 10
+####setfreq time:				7045
+####setfreq time:				5993
+####setfreq time:				7066
+####setfreq time:				5576
+temp: 578
+disp: 10
+####setfreq time:				7101
+####setfreq time:				5495
+####setfreq time:				7103
+####setfreq time:				5511
+disp: 11
+####setfreq time:				7128
+####setfreq time:				5472
+####setfreq time:				7048
+####setfreq time:				5500
+temp: 582
+disp: 13
+####setfreq time:				7065
+####setfreq time:				5455
+####setfreq time:				7046
+####setfreq time:				5454
+disp: 10
+####setfreq time:				7029
+####setfreq time:				5410
+####setfreq time:				6990
+####setfreq time:				5397
+temp: 575
+disp: 11
+####setfreq time:				7043
+####setfreq time:				5499
+####setfreq time:				6985
+####setfreq time:				5446
+disp: 13
+####setfreq time:				7046
+####setfreq time:				5369
+####setfreq time:				6978
+temp: 418
+####setfreq time:				6040
+disp: 14
+####setfreq time:				6981
+####setfreq time:				5531
+####setfreq time:				7045
+####setfreq time:				5473
+disp: 11
+####setfreq time:				7084
+####setfreq time:				5410
+####setfreq time:				6952
+temp: 417
+####setfreq time:				5453
+disp: 11
+####setfreq time:				7061
+####setfreq time:				5412
+####setfreq time:				7074
+####setfreq time:				5450
+disp: 14
+####setfreq time:				7068
+####setfreq time:				5468
+####setfreq time:				6940
+temp: 414
+####setfreq time:				5418
+disp: 15
+####setfreq time:				7029
+####setfreq time:				5429
+####setfreq time:				7014
+####setfreq time:				5456
+disp: 11
+####setfreq time:				6983
+####setfreq time:				5415
+temp: 594
+####setfreq time:				7843
+####setfreq time:				5459
+disp: 13
+####setfreq time:				7004
+####setfreq time:				5445
+####setfreq time:				7063
+####setfreq time:				5377
+disp: 14
+####setfreq time:				7057
+####setfreq time:				5462
+temp: 600
+####setfreq time:				7028
+####setfreq time:				5413
+disp: 11
+####setfreq time:				7057
+####setfreq time:				5378
+####setfreq time:				7003
+####setfreq time:				5424
+disp: 11
+####setfreq time:				7046
+####setfreq time:				5355
+temp: 587
+####setfreq time:				8975
+####setfreq time:				5512
+disp: 14
+####setfreq time:				7140
+####setfreq time:				5465
+####setfreq time:				6940
+####setfreq time:				5413
+disp: 11
+####setfreq time:				7017
+####setfreq time:				5403
+temp: 674
+####setfreq time:				7041
+####setfreq time:				5455
+disp: 11
+####setfreq time:				7039
+####setfreq time:				5454
+####setfreq time:				7149
+####setfreq time:				5410
+disp: 134
+####setfreq time:				7038
+####setfreq time:				5430
+temp: 591
+####setfreq time:				7042
+####setfreq time:				5492
+disp: 15
+####setfreq time:				7055
+####setfreq time:				5434
+####setfreq time:				6963
+####setfreq time:				5380
+disp: 14
+####setfreq time:				7020
+####setfreq time:				5479
+temp: 533
+####setfreq time:				7074
+####setfreq time:				5444
+disp: 14
+####setfreq time:				7103
+####setfreq time:				5442
+####setfreq time:				7154
+####setfreq time:				5495
+disp: 14
+####setfreq time:				7062
+temp: 460
+####setfreq time:				6024
+####setfreq time:				7097
+####setfreq time:				5570
+disp: 15
+####setfreq time:				7108
+####setfreq time:				5481
+####setfreq time:				7157
+####setfreq time:				5460
+disp: 15
+####setfreq time:				7064
+temp: 412
+####setfreq time:				5420
+####setfreq time:				7292
+####setfreq time:				5439
+disp: 15
+####setfreq time:				7188
+####setfreq time:				5391
+####setfreq time:				7104
+####setfreq time:				5423
+disp: 15
+####setfreq time:				7185
+temp: 383
+####setfreq time:				5375
+####setfreq time:				7083
+####setfreq time:				5351
+disp: 14
+####setfreq time:				7256
+####setfreq time:				5374
+####setfreq time:				7136
+####setfreq time:				5376
+disp: 14
+temp: 651
+####setfreq time:				8005
+####setfreq time:				5456
+####setfreq time:				7077
+####setfreq time:				5379
+disp: 14
+####setfreq time:				7329
+####setfreq time:				5306
+####setfreq time:				7153
+####setfreq time:				5327
+disp: 14
+temp: 611
+####setfreq time:				7249
+####setfreq time:				5322
+####setfreq time:				7017
+####setfreq time:				5423
+disp: 14
+####setfreq time:				7226
+####setfreq time:				5340
+####setfreq time:				7082
+####setfreq time:				5314
+disp: 14
+temp: 1300
+####setfreq time:				7157
+####setfreq time:				5310
+####setfreq time:				7146
+####setfreq time:				5421
+disp: 14
+####setfreq time:				7238
+####setfreq time:				5292
+####setfreq time:				7052
+####setfreq time:				5356
+temp: 582
+disp: 14
+####setfreq time:				7202
+####setfreq time:				5397
+####setfreq time:				7106
+####setfreq time:				5358
+disp: 14
+####setfreq time:				7183
+####setfreq time:				5365
+####setfreq time:				7126
+####setfreq time:				5374
+temp: 584
+disp: 14
+####setfreq time:				7181
+####setfreq time:				5359
+####setfreq time:				7164
+####setfreq time:				5335
+disp: 14
+####setfreq time:				7035
+####setfreq time:				5385
+####setfreq time:				7097
+####setfreq time:				5360
+temp: 559
+disp: 26
+####setfreq time:				7032
+####setfreq time:				5359
+####setfreq time:				7062
+####setfreq time:				5324
+disp: 15
+####setfreq time:				8054
+####setfreq time:				5352
+####setfreq time:				7123
+temp: 517
+####setfreq time:				5979
+disp: 15
+####setfreq time:				7029
+####setfreq time:				5365
+####setfreq time:				7058
+####setfreq time:				5371
+disp: 14
+####setfreq time:				7020
+####setfreq time:				5331
+####setfreq time:				7069
+temp: 420
+####setfreq time:				5365
+disp: 14
+####setfreq time:				7041
+####setfreq time:				5341
+####setfreq time:				7023
+####setfreq time:				5338
+disp: 15
+####setfreq time:				7074
+####setfreq time:				5347
+####setfreq time:				7112
+temp: 410
+####setfreq time:				5327
+disp: 14
+####setfreq time:				6939
+####setfreq time:				5396
+####setfreq time:				7058
+####setfreq time:				5305
+disp: 14
+####setfreq time:				6995
+####setfreq time:				5286
+temp: 705
+####setfreq time:				7798
+####setfreq time:				5388
+disp: 17
+####setfreq time:				7022
+####setfreq time:				6101
+####setfreq time:				7199
+####setfreq time:				5346
+disp: 18
+####setfreq time:				7011
+####setfreq time:				5319
+temp: 576
+####setfreq time:				7059
+####setfreq time:				5398
+disp: 14
+####setfreq time:				7082
+####setfreq time:				5291
+####setfreq time:				7079
+####setfreq time:				5337
+disp: 17
+####setfreq time:				6988
+####setfreq time:				5318
+temp: 578
+####setfreq time:				7023
+####setfreq time:				5366
+disp: 17
+####setfreq time:				7013
+####setfreq time:				5352
+####setfreq time:				7026
+####setfreq time:				5317
+disp: 14
+####setfreq time:				6987
+####setfreq time:				5431
+temp: 579
+####setfreq time:				7062
+####setfreq time:				5369
+disp: 14
+####setfreq time:				7065
+####setfreq time:				5309
+####setfreq time:				7000
+####setfreq time:				5337
+disp: 16
+####setfreq time:				6932
+####setfreq time:				5324
+temp: 581
+####setfreq time:				7069
+####setfreq time:				5317
+disp: 17
+####setfreq time:				7099
+####setfreq time:				5302
+####setfreq time:				7052
+####setfreq time:				5392
+disp: 14
+####setfreq time:				6990
+####setfreq time:				5336
+temp: 562
+####setfreq time:				7031
+####setfreq time:				5301
+disp: 16
+####setfreq time:				6968
+####setfreq time:				5295
+####setfreq time:				7056
+####setfreq time:				5349
+disp: 17
+####setfreq time:				7080
+temp: 416
+####setfreq time:				5328
+####setfreq time:				6991
+####setfreq time:				5341
+disp: 14
+####setfreq time:				6959
+####setfreq time:				5352
+####setfreq time:				7010
+####setfreq time:				5373
+disp: 16
+####setfreq time:				6969
+temp: 422
+####setfreq time:				5308
+####setfreq time:				7064
+####setfreq time:				5416
+disp: 18
+####setfreq time:				6934
+####setfreq time:				5281
+####setfreq time:				6980
+####setfreq time:				5347
+disp: 14
+####setfreq time:				7044
+temp: 410
+####setfreq time:				5242
+####setfreq time:				7008
+####setfreq time:				5392
+disp: 16
+####setfreq time:				6963
+####setfreq time:				5275
+####setfreq time:				8708
+####setfreq time:				5347
+disp: 17
+temp: 614
+####setfreq time:				7691
+####setfreq time:				5352
+####setfreq time:				7035
+####setfreq time:				5391
+disp: 14
+####setfreq time:				7080
+####setfreq time:				5373
+####setfreq time:				7035
+####setfreq time:				5351
+disp: 29
+temp: 611
+####setfreq time:				6976
+####setfreq time:				5393
+####setfreq time:				6964
+####setfreq time:				5356
+disp: 14
+####setfreq time:				6976
+####setfreq time:				5365
+####setfreq time:				7045
+####setfreq time:				5434
+disp: 17
+temp: 584
+####setfreq time:				6943
+####setfreq time:				5374
+####setfreq time:				7041
+####setfreq time:				5404
+disp: 18
+####setfreq time:				6848
+####setfreq time:				5410
+####setfreq time:				6802
+####setfreq time:				5489
+temp: 555
+disp: 17
+####setfreq time:				6881
+####setfreq time:				5380
+####setfreq time:				7025
+####setfreq time:				5429
+disp: 17
+####setfreq time:				6899
+####setfreq time:				5457
+####setfreq time:				6928
+####setfreq time:				5538
+temp: 622
+disp: 18
+####setfreq time:				6936
+####setfreq time:				5335
+####setfreq time:				6930
+####setfreq time:				5426
+disp: 17
+####setfreq time:				6938
+####setfreq time:				5538
+####setfreq time:				6903
+temp: 577
+####setfreq time:				6106
+disp: 18
+####setfreq time:				6950
+####setfreq time:				5412
+####setfreq time:				6883
+####setfreq time:				5457
+disp: 18
+####setfreq time:				6863
+####setfreq time:				5434
+####setfreq time:				6913
+temp: 440
+####setfreq time:				5459
+disp: 17
+####setfreq time:				6939
+####setfreq time:				5433
+####setfreq time:				6843
+####setfreq time:				5418
+disp: 14
+####setfreq time:				6875
+####setfreq time:				5426
+####setfreq time:				6907
+temp: 416
+####setfreq time:				5386
+disp: 14
+####setfreq time:				6911
+####setfreq time:				5460
+####setfreq time:				6847
+####setfreq time:				5394
+disp: 17
+####setfreq time:				6927
+####setfreq time:				5478
+####setfreq time:				6861
+temp: 416
+####setfreq time:				5432
+disp: 17
+####setfreq time:				6895
+####setfreq time:				5486
+####setfreq time:				6912
+####setfreq time:				5422
+disp: 60
+####setfreq time:				6928
+####setfreq time:				5505
+temp: 587
+####setfreq time:				7672
+####setfreq time:				5455
+disp: 15
+####setfreq time:				6866
+####setfreq time:				5442
+####setfreq time:				6965
+####setfreq time:				5439
+disp: 17
+####setfreq time:				6891
+####setfreq time:				5443
+temp: 568
+####setfreq time:				6956
+####setfreq time:				5424
+disp: 18
+####setfreq time:				6964
+####setfreq time:				5428
+####setfreq time:				6917
+####setfreq time:				5436
+disp: 14
+####setfreq time:				6872
+####setfreq time:				5442
+temp: 620
+####setfreq time:				6924
+####setfreq time:				5440
+disp: 17
+####setfreq time:				7323
+####setfreq time:				5359
+####setfreq time:				6876
+####setfreq time:				5478
+disp: 18
+####setfreq time:				6931
+####setfreq time:				5532
+temp: 598
+####setfreq time:				6859
+####setfreq time:				5462
+disp: 15
+####setfreq time:				6939
+####setfreq time:				5401
+####setfreq time:				6968
+####setfreq time:				5434
+disp: 15
+####setfreq time:				6917
+####setfreq time:				5455
+temp: 579
+####setfreq time:				6928
+####setfreq time:				5355
+disp: 17
+####setfreq time:				6948
+####setfreq time:				5425
+####setfreq time:				6958
+####setfreq time:				5514
+disp: 16
+####setfreq time:				6986
+temp: 486
+####setfreq time:				6011
+####setfreq time:				6944
+####setfreq time:				5472
+disp: 14
+####setfreq time:				6979
+####setfreq time:				5490
+####setfreq time:				7024
+####setfreq time:				5497
+disp: 17
+####setfreq time:				7165
+temp: 416
+####setfreq time:				5437
+####setfreq time:				7078
+####setfreq time:				5503
+disp: 17
+####setfreq time:				7164
+####setfreq time:				7306
+####setfreq time:				7020
+####setfreq time:				5482
+disp: 14
+####setfreq time:				7073
+temp: 411
+####setfreq time:				5421
+####setfreq time:				7130
+####setfreq time:				5485
+disp: 14
+####setfreq time:				7097
+####setfreq time:				5411
+####setfreq time:				7079
+####setfreq time:				5394
+disp: 16
+temp: 435
+####setfreq time:				7686
+####setfreq time:				5457
+####setfreq time:				7084
+####setfreq time:				5529
+disp: 18
+####setfreq time:				7211
+####setfreq time:				5404
+####setfreq time:				7043
+####setfreq time:				5460
+disp: 14
+temp: 590
+####setfreq time:				7982
+####setfreq time:				5429
+####setfreq time:				7129
+####setfreq time:				5418
+disp: 14
+####setfreq time:				7312
+####setfreq time:				5438
+####setfreq time:				7066
+####setfreq time:				5461
+disp: 16
+temp: 610
+####setfreq time:				7289
+####setfreq time:				5450
+####setfreq time:				7103
+####setfreq time:				5414
+disp: 17
+####setfreq time:				7101
+####setfreq time:				5508
+####setfreq time:				7165
+####setfreq time:				5389
+disp: 14
+temp: 587
+####setfreq time:				7211
+####setfreq time:				5449
+####setfreq time:				7210
+####setfreq time:				5395
+disp: 14
+####setfreq time:				7142
+####setfreq time:				5474
+####setfreq time:				7205
+####setfreq time:				5463
+temp: 583
+disp: 18
+####setfreq time:				7145
+####setfreq time:				5486
+####setfreq time:				7208
+####setfreq time:				5515
+disp: 14
+####setfreq time:				7101
+####setfreq time:				5477
+####setfreq time:				7260
+####setfreq time:				5509
+temp: 574
+disp: 18
+####setfreq time:				7136
+####setfreq time:				5517
+####setfreq time:				7150
+####setfreq time:				5493
+disp: 17
+####setfreq time:				7148
+####setfreq time:				5454
+####setfreq time:				7153
+temp: 426
+####setfreq time:				6024
+disp: 17
+####setfreq time:				7086
+####setfreq time:				5505
+####setfreq time:				8244
+####setfreq time:				5493
+disp: 14
+####setfreq time:				7161
+####setfreq time:				5518
+####setfreq time:				7163
+temp: 415
+####setfreq time:				5560
+disp: 16
+####setfreq time:				7186
+####setfreq time:				5546
+####setfreq time:				7134
+####setfreq time:				5505
+disp: 14
+####setfreq time:				7196
+####setfreq time:				5449
+####setfreq time:				7133
+temp: 1829
+####setfreq time:				5501
+disp: 14
+####setfreq time:				7235
+####setfreq time:				5529
+####setfreq time:				7055
+####setfreq time:				5456
+disp: 17
+####setfreq time:				7179
+####setfreq time:				5540
+####setfreq time:				7097
+temp: 416
+####setfreq time:				5569
+disp: 18
+####setfreq time:				7187
+####setfreq time:				5535
+####setfreq time:				7169
+####setfreq time:				5531
+disp: 14
+####setfreq time:				7176
+####setfreq time:				5555
+temp: 629
+####setfreq time:				7908
+####setfreq time:				5501
+disp: 16
+####setfreq time:				7209
+####setfreq time:				5543
+####setfreq time:				7170
+####setfreq time:				5480
+disp: 17
+####setfreq time:				7268
+####setfreq time:				5541
+temp: 554
+####setfreq time:				7080
+####setfreq time:				7010
+disp: 14
+####setfreq time:				7283
+####setfreq time:				5524
+####setfreq time:				7139
+####setfreq time:				5546
+disp: 17
+####setfreq time:				7142
+####setfreq time:				5556
+temp: 600
+####setfreq time:				7197
+####setfreq time:				5566
+disp: 17
+####setfreq time:				7111
+####setfreq time:				5499
+####setfreq time:				7163
+####setfreq time:				5559
+disp: 14
+####setfreq time:				7125
+####setfreq time:				5549
+temp: 613
+####setfreq time:				7197
+####setfreq time:				5569
+disp: 17
+####setfreq time:				7171
+####setfreq time:				5500
+####setfreq time:				7187
+####setfreq time:				5531
+disp: 17
+####setfreq time:				7160
+####setfreq time:				5536
+temp: 551
+####setfreq time:				7218
+####setfreq time:				5501
+disp: 15
+####setfreq time:				7269
+####setfreq time:				5526
+####setfreq time:				7103
+####setfreq time:				5485
+disp: 17
+####setfreq time:				7181
+temp: 452
+####setfreq time:				6081
+####setfreq time:				7092
+####setfreq time:				5608
+disp: 14
+####setfreq time:				7206
+####setfreq time:				5587
+####setfreq time:				7144
+####setfreq time:				5480
+disp: 17
+####setfreq time:				7241
+temp: 434
+####setfreq time:				5553
+####setfreq time:				7159
+####setfreq time:				5519
+disp: 28
+####setfreq time:				7169
+####setfreq time:				5535
+####setfreq time:				7177
+####setfreq time:				5529
+disp: 17
+####setfreq time:				7161
+temp: 416
+####setfreq time:				5620
+####setfreq time:				7102
+####setfreq time:				5574
+disp: 18
+####setfreq time:				7161
+####setfreq time:				5504
+####setfreq time:				7190
+####setfreq time:				5608
+disp: 15
+temp: 473
+####setfreq time:				7670
+####setfreq time:				5442
+####setfreq time:				7155
+####setfreq time:				5641
+disp: 17
+####setfreq time:				7113
+####setfreq time:				5547
+####setfreq time:				7223
+####setfreq time:				5532
+disp: 17
+temp: 612
+####setfreq time:				7875
+####setfreq time:				5469
+####setfreq time:				7181
+####setfreq time:				5520
+disp: 17
+####setfreq time:				7233
+####setfreq time:				5552
+####setfreq time:				7115
+####setfreq time:				5529
+disp: 14
+temp: 589
+####setfreq time:				7102
+####setfreq time:				5495
+####setfreq time:				7164
+####setfreq time:				5418
+disp: 16
+####setfreq time:				7135
+####setfreq time:				5532
+####setfreq time:				7127
+####setfreq time:				5484
+disp: 17
+temp: 604
+####setfreq time:				7101
+####setfreq time:				5492
+####setfreq time:				7156
+####setfreq time:				5469
+disp: 14
+####setfreq time:				7098
+####setfreq time:				5502
+####setfreq time:				7153
+####setfreq time:				5610
+temp: 588
+disp: 30
+####setfreq time:				7184
+####setfreq time:				5474
+####setfreq time:				7190
+####setfreq time:				5509
+disp: 18
+####setfreq time:				7175
+####setfreq time:				5465
+####setfreq time:				7054
+####setfreq time:				5539
+temp: 723
+disp: 17
+####setfreq time:				7175
+####setfreq time:				7618
+####setfreq time:				7125
+####setfreq time:				5421
+disp: 17
+####setfreq time:				7086
+####setfreq time:				5371
+####setfreq time:				7036
+temp: 467
+####setfreq time:				5922
+disp: 41
+####setfreq time:				7126
+####setfreq time:				5440
+####setfreq time:				7094
+####setfreq time:				5481
+disp: 14
+####setfreq time:				7058
+####setfreq time:				5420
+####setfreq time:				7051
+temp: 424
+####setfreq time:				5466
+disp: 16
+####setfreq time:				7084
+####setfreq time:				5320
+####setfreq time:				7018
+####setfreq time:				5410
+disp: 22
+####setfreq time:				7040
+####setfreq time:				5457
+####setfreq time:				7034
+temp: 422
+####setfreq time:				5394
+disp: 17
+####setfreq time:				7146
+####setfreq time:				5365
+####setfreq time:				7064
+####setfreq time:				5339
+disp: 13
+####setfreq time:				6985
+####setfreq time:				5367
+temp: 609
+####setfreq time:				7808
+####setfreq time:				5287
+disp: 14
+####setfreq time:				7074
+####setfreq time:				5341
+####setfreq time:				7115
+####setfreq time:				5337
+disp: 16
+####setfreq time:				7114
+####setfreq time:				5391
+temp: 662
+####setfreq time:				7807
+####setfreq time:				5346
+disp: 18
+####setfreq time:				7104
+####setfreq time:				5345
+####setfreq time:				7107
+####setfreq time:				5317
+disp: 14
+####setfreq time:				7070
+####setfreq time:				5327
+temp: 585
+####setfreq time:				7051
+####setfreq time:				5306
+disp: 15
+####setfreq time:				7123
+####setfreq time:				5317
+####setfreq time:				7055
+####setfreq time:				5328
+disp: 16
+####setfreq time:				7112
+####setfreq time:				5285
+temp: 594
+####setfreq time:				7000
+####setfreq time:				5340
+disp: 17
+####setfreq time:				7017
+####setfreq time:				5233
+####setfreq time:				7102
+####setfreq time:				5267
+disp: 14
+####setfreq time:				7150
+####setfreq time:				5340
+temp: 591
+####setfreq time:				8275
+####setfreq time:				5307
+disp: 16
+####setfreq time:				7134
+####setfreq time:				5273
+####setfreq time:				6976
+####setfreq time:				5311
+disp: 18
+####setfreq time:				6990
+####setfreq time:				5366
+temp: 577
+####setfreq time:				7005
+####setfreq time:				5311
+disp: 14
+####setfreq time:				7074
+####setfreq time:				5251
+####setfreq time:				6930
+####setfreq time:				5222
+disp: 14
+####setfreq time:				6997
+temp: 402
+####setfreq time:				5821
+####setfreq time:				7034
+####setfreq time:				5303
+disp: 17
+####setfreq time:				6991
+####setfreq time:				5358
+####setfreq time:				6872
+####setfreq time:				5300
+disp: 17
+####setfreq time:				7091
+temp: 423
+####setfreq time:				5228
+####setfreq time:				6998
+####setfreq time:				5254
+disp: 15
+####setfreq time:				7003
+####setfreq time:				5316
+####setfreq time:				6909
+####setfreq time:				5257
+disp: 14
+####setfreq time:				7013
+temp: 429
+####setfreq time:				5323
+####setfreq time:				6920
+####setfreq time:				5254
+disp: 17
+####setfreq time:				6985
+####setfreq time:				5314
+####setfreq time:				7015
+####setfreq time:				6997
+disp: 17
+temp: 569
+####setfreq time:				7820
+####setfreq time:				5336
+####setfreq time:				6942
+####setfreq time:				5261
+disp: 14
+####setfreq time:				7087
+####setfreq time:				5277
+####setfreq time:				7018
+####setfreq time:				5302
+disp: 16
+temp: 587
+####setfreq time:				7719
+####setfreq time:				5240
+####setfreq time:				6975
+####setfreq time:				5282
+disp: 18
+####setfreq time:				7072
+####setfreq time:				5308
+####setfreq time:				7026
+####setfreq time:				5285
+disp: 14
+temp: 591
+####setfreq time:				7028
+####setfreq time:				5320
+####setfreq time:				7068
+####setfreq time:				5284
+disp: 17
+####setfreq time:				6964
+####setfreq time:				5255
+####setfreq time:				7176
+####setfreq time:				5264
+disp: 17
+temp: 559
+####setfreq time:				7070
+####setfreq time:				5268
+####setfreq time:				7143
+####setfreq time:				5234
+disp: 15
+####setfreq time:				6994
+####setfreq time:				5264
+####setfreq time:				7132
+####setfreq time:				5277
+disp: 17
+temp: 587
+####setfreq time:				7046
+####setfreq time:				5279
+####setfreq time:				7078
+####setfreq time:				5190
+disp: 18
+####setfreq time:				6959
+####setfreq time:				5215
+####setfreq time:				7068
+####setfreq time:				5339
+temp: 576
+disp: 14
+####setfreq time:				7031
+####setfreq time:				5412
+####setfreq time:				7081
+####setfreq time:				5350
+disp: 14
+####setfreq time:				6982
+####setfreq time:				5340
+####setfreq time:				7061
+temp: 426
+####setfreq time:				5981
+disp: 18
+####setfreq time:				7077
+####setfreq time:				5274
+####setfreq time:				7085
+####setfreq time:				5424
+disp: 14
+####setfreq time:				6967
+####setfreq time:				5328
+####setfreq time:				7031
+temp: 413
+####setfreq time:				5416
+disp: 18
+####setfreq time:				7094
+####setfreq time:				5330
+####setfreq time:				7083
+####setfreq time:				5421
+disp: 14
+####setfreq time:				7999
+####setfreq time:				5286
+####setfreq time:				7007
+temp: 410
+####setfreq time:				5336
+disp: 17
+####setfreq time:				6997
+####setfreq time:				5360
+####setfreq time:				7050
+####setfreq time:				5404
+disp: 14
+####setfreq time:				7050
+####setfreq time:				5448
+temp: 600
+####setfreq time:				7711
+####setfreq time:				5318
+disp: 17
+####setfreq time:				7104
+####setfreq time:				5405
+####setfreq time:				7119
+####setfreq time:				5448
+disp: 14
+####setfreq time:				6997
+####setfreq time:				5419
+temp: 590
+####setfreq time:				6983
+####setfreq time:				5433
+disp: 17
+####setfreq time:				6984
+####setfreq time:				5471
+####setfreq time:				7049
+####setfreq time:				5449
+disp: 16
+####setfreq time:				7058
+####setfreq time:				5477
+temp: 571
+####setfreq time:				6958
+####setfreq time:				5506
+disp: 14
+####setfreq time:				7054
+####setfreq time:				5387
+####setfreq time:				6959
+####setfreq time:				5422
+disp: 17
+####setfreq time:				7041
+####setfreq time:				5518
+temp: 583
+####setfreq time:				7041
+####setfreq time:				5479
+disp: 15
+####setfreq time:				7100
+####setfreq time:				8271
+####setfreq time:				7005
+####setfreq time:				5513
+disp: 16
+####setfreq time:				6998
+####setfreq time:				5538
+temp: 626
+####setfreq time:				7065
+####setfreq time:				5481
+disp: 16
+####setfreq time:				7051
+####setfreq time:				5464
+####setfreq time:				7025
+####setfreq time:				5407
+disp: 17
+####setfreq time:				7007
+####setfreq time:				5503
+temp: 570
+####setfreq time:				6969
+####setfreq time:				5445
+disp: 15
+####setfreq time:				7044
+####setfreq time:				5566
+####setfreq time:				6920
+####setfreq time:				5570
+disp: 16
+####setfreq time:				6986
+temp: 427
+####setfreq time:				6104
+####setfreq time:				7052
+####setfreq time:				5547
+disp: 14
+####setfreq time:				6972
+####setfreq time:				5556
+####setfreq time:				6950
+####setfreq time:				5570
+disp: 17
+####setfreq time:				7047
+temp: 421
+####setfreq time:				5538
+####setfreq time:				6908
+####setfreq time:				5509
+disp: 14
+####setfreq time:				7007
+####setfreq time:				5546
+####setfreq time:				7085
+####setfreq time:				5572
+disp: 17
+####setfreq time:				6956
+temp: 408
+####setfreq time:				5518
+####setfreq time:				7052
+####setfreq time:				5558
+disp: 14
+####setfreq time:				7043
+####setfreq time:				5579
+####setfreq time:				6965
+####setfreq time:				5576
+disp: 14
+temp: 640
+####setfreq time:				7791
+####setfreq time:				5607
+####setfreq time:				6959
+####setfreq time:				5527
+disp: 26
+####setfreq time:				7082
+####setfreq time:				5530
+####setfreq time:				6938
+####setfreq time:				5582
+disp: 18
+temp: 592
+####setfreq time:				6971
+####setfreq time:				5658
+####setfreq time:				6955
+####setfreq time:				5437
+disp: 15
+####setfreq time:				7011
+####setfreq time:				5547
+####setfreq time:				8771
+####setfreq time:				5536
+disp: 66
+temp: 588
+####setfreq time:				6950
+####setfreq time:				5474
+####setfreq time:				7053
+####setfreq time:				5568
+disp: 14
+####setfreq time:				6977
+####setfreq time:				5501
+####setfreq time:				6968
+####setfreq time:				5569
+disp: 17
+temp: 619
+####setfreq time:				7010
+####setfreq time:				5563
+####setfreq time:				6987
+####setfreq time:				5454
+disp: 14
+####setfreq time:				6993
+####setfreq time:				5461
+####setfreq time:				7094
+####setfreq time:				5543
+disp: 13
+temp: 582
+####setfreq time:				7036
+####setfreq time:				5468
+####setfreq time:				7008
+####setfreq time:				5541
+disp: 16
+####setfreq time:				6947
+####setfreq time:				5515
+####setfreq time:				7066
+####setfreq time:				5528
+temp: 573
+disp: 14
+####setfreq time:				7009
+####setfreq time:				5510
+####setfreq time:				7029
+####setfreq time:				5503
+disp: 17
+####setfreq time:				7083
+####setfreq time:				5493
+####setfreq time:				7006
+temp: 469
+####setfreq time:				6132
+disp: 18
+####setfreq time:				7024
+####setfreq time:				5548
+####setfreq time:				7079
+####setfreq time:				7455
+disp: 14
+####setfreq time:				6948
+####setfreq time:				5467
+####setfreq time:				7033
+temp: 389
+####setfreq time:				5466
+disp: 15
+####setfreq time:				7000
+####setfreq time:				5350
+####setfreq time:				6972
+####setfreq time:				5498
+disp: 17
+####setfreq time:				7097
+####setfreq time:				5401
+####setfreq time:				7084
+temp: 492
+####setfreq time:				5494
+disp: 18
+####setfreq time:				7109
+####setfreq time:				5469
+####setfreq time:				7061
+####setfreq time:				5493
+disp: 14
+####setfreq time:				7074
+####setfreq time:				5493
+temp: 646
+####setfreq time:				7854
+####setfreq time:				5547
+disp: 16
+####setfreq time:				7089
+####setfreq time:				5391
+####setfreq time:				7131
+####setfreq time:				5435
+disp: 17
+####setfreq time:				7073
+####setfreq time:				5471
+temp: 555
+####setfreq time:				7109
+####setfreq time:				5476
+disp: 15
+####setfreq time:				7139
+####setfreq time:				5444
+####setfreq time:				7063
+####setfreq time:				5373
+disp: 16
+####setfreq time:				7014
+####setfreq time:				5409
+temp: 606
+####setfreq time:				7030
+####setfreq time:				5462
+disp: 18
+####setfreq time:				7121
+####setfreq time:				5426
+####setfreq time:				7082
+####setfreq time:				5427
+disp: 14
+####setfreq time:				7055
+####setfreq time:				5474
+temp: 594
+####setfreq time:				7125
+####setfreq time:				5553
+disp: 16
+####setfreq time:				7067
+####setfreq time:				5511
+####setfreq time:				7093
+####setfreq time:				5382
+disp: 17
+####setfreq time:				7045
+####setfreq time:				5455
+temp: 555
+####setfreq time:				7100
+####setfreq time:				5512
+disp: 14
+####setfreq time:				7176
+####setfreq time:				5476
+####setfreq time:				6966
+####setfreq time:				5526
+disp: 14
+####setfreq time:				7087
+####setfreq time:				5417
+temp: 622
+####setfreq time:				7088
+####setfreq time:				5440
+disp: 14
+####setfreq time:				8537
+####setfreq time:				5491
+####setfreq time:				7062
+####setfreq time:				5461
+disp: 14
+####setfreq time:				7142
+temp: 544
+####setfreq time:				6136
+####setfreq time:				7024
+####setfreq time:				5443
+disp: 14
+####setfreq time:				7024
+####setfreq time:				5517
+####setfreq time:				7032
+####setfreq time:				5501
+disp: 14
+####setfreq time:				7061
+temp: 2376
+####setfreq time:				5401
+####setfreq time:				7058
+####setfreq time:				5466
+disp: 15
+####setfreq time:				7134
+####setfreq time:				5510
+####setfreq time:				7083
+####setfreq time:				5424
+disp: 14
+####setfreq time:				7078
+temp: 423
+####setfreq time:				5444
+####setfreq time:				7024
+####setfreq time:				5434
+disp: 14
+####setfreq time:				7141
+####setfreq time:				5462
+####setfreq time:				7020
+####setfreq time:				5456
+disp: 14
+temp: 607
+####setfreq time:				7906
+####setfreq time:				6259
+####setfreq time:				7366
+####setfreq time:				5441
+disp: 14
+####setfreq time:				7163
+####setfreq time:				5374
+####setfreq time:				7125
+####setfreq time:				5537
+disp: 14
+temp: 601
+####setfreq time:				7101
+####setfreq time:				5432
+####setfreq time:				7154
+####setfreq time:				5449
+disp: 15
+####setfreq time:				7253
+####setfreq time:				5497
+####setfreq time:				7221
+####setfreq time:				5423
+disp: 14
+temp: 628
+####setfreq time:				7167
+####setfreq time:				5467
+####setfreq time:				7196
+####setfreq time:				5460
+disp: 15
+####setfreq time:				7320
+####setfreq time:				5484
+####setfreq time:				7160
+####setfreq time:				5423
+disp: 16
+temp: 592
+####setfreq time:				7068
+####setfreq time:				5443
+####setfreq time:				7188
+####setfreq time:				5481
+disp: 17
+####setfreq time:				7170
+####setfreq time:				5467
+####setfreq time:				7149
+####setfreq time:				5442
+disp: 14
+temp: 585
+####setfreq time:				7088
+####setfreq time:				5454
+####setfreq time:				7208
+####setfreq time:				5526
+disp: 16
+####setfreq time:				7168
+####setfreq time:				5405
+####setfreq time:				7195
+####setfreq time:				5489
+temp: 548
+disp: 14
+####setfreq time:				7177
+####setfreq time:				5498
+####setfreq time:				7221
+####setfreq time:				5551
+disp: 14
+####setfreq time:				7198
+####setfreq time:				5552
+####setfreq time:				7107
+temp: 433
+####setfreq time:				6139
+disp: 17
+####setfreq time:				7148
+####setfreq time:				5485
+####setfreq time:				7149
+####setfreq time:				5639
+disp: 17
+####setfreq time:				7167
+####setfreq time:				5583
+####setfreq time:				7127
+temp: 428
+####setfreq time:				5617
+disp: 14
+####setfreq time:				7157
+####setfreq time:				5487
+####setfreq time:				7675
+####setfreq time:				5519
+disp: 17
+####setfreq time:				7314
+####setfreq time:				5616
+####setfreq time:				7178
+temp: 386
+####setfreq time:				5573
+disp: 17
+####setfreq time:				7186
+####setfreq time:				5523
+####setfreq time:				7277
+####setfreq time:				5479
+disp: 17
+####setfreq time:				7137
+####setfreq time:				5550
+temp: 609
+####setfreq time:				7901
+####setfreq time:				5548
+disp: 14
+####setfreq time:				7218
+####setfreq time:				5519
+####setfreq time:				7167
+####setfreq time:				5521
+disp: 17
+####setfreq time:				7192
+####setfreq time:				5555
+temp: 593
+####setfreq time:				7163
+####setfreq time:				5479
+disp: 14
+####setfreq time:				7263
+####setfreq time:				5575
+####setfreq time:				7112
+####setfreq time:				5562
+disp: 17
+####setfreq time:				7175
+####setfreq time:				5547
+temp: 627
+####setfreq time:				7249
+####setfreq time:				5524
+disp: 15
+####setfreq time:				7201
+####setfreq time:				5577
+####setfreq time:				7128
+####setfreq time:				5558
+disp: 17
+####setfreq time:				7159
+####setfreq time:				5531
+temp: 584
+####setfreq time:				7210
+####setfreq time:				6452
+disp: 15
+####setfreq time:				7178
+####setfreq time:				5536
+####setfreq time:				7183
+####setfreq time:				5460
+disp: 18
+####setfreq time:				7187
+####setfreq time:				5487
+temp: 578
+####setfreq time:				7215
+####setfreq time:				5503
+disp: 15
+####setfreq time:				7259
+####setfreq time:				5535
+####setfreq time:				7150
+####setfreq time:				5469
+disp: 17
+####setfreq time:				7242
+####setfreq time:				5468
+temp: 554
+####setfreq time:				7126
+####setfreq time:				5482
+disp: 17
+####setfreq time:				7198
+####setfreq time:				5474
+####setfreq time:				7237
+####setfreq time:				5556
+disp: 14
+####setfreq time:				7111
+temp: 440
+####setfreq time:				5995
+####setfreq time:				7157
+####setfreq time:				5439
+disp: 17
+####setfreq time:				7168
+####setfreq time:				5505
+####setfreq time:				7228
+####setfreq time:				5492
+disp: 15
+####setfreq time:				7146
+temp: 428
+####setfreq time:				5554
+####setfreq time:				7191
+####setfreq time:				5487
+disp: 17
+####setfreq time:				7155
+####setfreq time:				5465
+####setfreq time:				7177
+####setfreq time:				5444
+disp: 15
+####setfreq time:				7239
+temp: 413
+####setfreq time:				5477
+####setfreq time:				7179
+####setfreq time:				5400
+disp: 18
+####setfreq time:				7100
+####setfreq time:				5419
+####setfreq time:				7159
+####setfreq time:				5370
+disp: 14
+temp: 608
+####setfreq time:				7989
+####setfreq time:				5404
+####setfreq time:				7195
+####setfreq time:				5387
+disp: 18
+####setfreq time:				7285
+####setfreq time:				5417
+####setfreq time:				7122
+####setfreq time:				5444
+disp: 13
+temp: 594
+####setfreq time:				7172
+####setfreq time:				5410
+####setfreq time:				7105
+####setfreq time:				5370
+disp: 39
+####setfreq time:				7197
+####setfreq time:				5452
+####setfreq time:				7083
+####setfreq time:				5396
+disp: 14
+temp: 594
+####setfreq time:				7599
+####setfreq time:				5400
+####setfreq time:				7056
+####setfreq time:				5345
+disp: 14
+####setfreq time:				7094
+####setfreq time:				5460
+####setfreq time:				7049
+####setfreq time:				5434
+disp: 18
+temp: 586
+####setfreq time:				7102
+####setfreq time:				5400
+####setfreq time:				7051
+####setfreq time:				5390
+disp: 14
+####setfreq time:				7129
+####setfreq time:				5376
+####setfreq time:				7032
+####setfreq time:				5337
+disp: 17
+temp: 587
+####setfreq time:				7051
+####setfreq time:				5386
+####setfreq time:				7097
+####setfreq time:				5367
+disp: 14
+####setfreq time:				7095
+####setfreq time:				5387
+####setfreq time:				7128
+####setfreq time:				5405
+temp: 578
+disp: 17
+####setfreq time:				6957
+####setfreq time:				5376
+####setfreq time:				7035
+####setfreq time:				5356
+disp: 18
+####setfreq time:				6997
+####setfreq time:				5327
+####setfreq time:				7073
+temp: 524
+####setfreq time:				5997
+disp: 15
+####setfreq time:				6947
+####setfreq time:				5400
+####setfreq time:				6987
+####setfreq time:				5396
+disp: 16
+####setfreq time:				7008
+####setfreq time:				6371
+####setfreq time:				7051
+temp: 420
+####setfreq time:				5361
+disp: 18
+####setfreq time:				6986
+####setfreq time:				5276
+####setfreq time:				6999
+####setfreq time:				5220
+disp: 15
+####setfreq time:				6950
+####setfreq time:				5306
+####setfreq time:				6952
+temp: 415
+####setfreq time:				5267
+disp: 17
+####setfreq time:				7035
+####setfreq time:				5256
+####setfreq time:				6906
+####setfreq time:				5350
+disp: 14
+####setfreq time:				6912
+####setfreq time:				5288
+temp: 646
+####setfreq time:				7728
+####setfreq time:				5333
+disp: 16
+####setfreq time:				6993
+####setfreq time:				5223
+####setfreq time:				6929
+####setfreq time:				5318
+disp: 15
+####setfreq time:				6984
+####setfreq time:				5289
+temp: 595
+####setfreq time:				6986
+####setfreq time:				5285
+disp: 18
+####setfreq time:				6907
+####setfreq time:				5285
+####setfreq time:				6894
+####setfreq time:				5319
+disp: 15
+####setfreq time:				6919
+####setfreq time:				5270
+temp: 2771
+####setfreq time:				6951
+####setfreq time:				5187
+disp: 15
+####setfreq time:				7013
+####setfreq time:				5324
+####setfreq time:				6962
+####setfreq time:				5290
+disp: 17
+####setfreq time:				7000
+####setfreq time:				5262
+temp: 570
+####setfreq time:				7032
+####setfreq time:				5275
+disp: 17
+####setfreq time:				6985
+####setfreq time:				5260
+####setfreq time:				6967
+####setfreq time:				5334
+disp: 13
+####setfreq time:				6963
+####setfreq time:				5299
+temp: 609
+####setfreq time:				7035
+####setfreq time:				5280
+disp: 17
+####setfreq time:				7020
+####setfreq time:				5262
+####setfreq time:				9069
+####setfreq time:				5274
+disp: 13
+####setfreq time:				6961
+####setfreq time:				5324
+temp: 660
+####setfreq time:				6942
+####setfreq time:				5322
+disp: 15
+####setfreq time:				6976
+####setfreq time:				5316
+####setfreq time:				6947
+####setfreq time:				5255
+disp: 15
+####setfreq time:				7084
+temp: 437
+####setfreq time:				5841
+####setfreq time:				6945
+####setfreq time:				5290
+disp: 17
+####setfreq time:				6925
+####setfreq time:				5396
+####setfreq time:				6903
+####setfreq time:				5327
+disp: 14
+####setfreq time:				6989
+temp: 440
+####setfreq time:				5313
+####setfreq time:				6906
+####setfreq time:				5349
+disp: 17
+####setfreq time:				6973
+####setfreq time:				5269
+####setfreq time:				6850
+####setfreq time:				5402
+disp: 18
+####setfreq time:				6917
+temp: 425
+####setfreq time:				5348
+####setfreq time:				6919
+####setfreq time:				5532
+disp: 14
+####setfreq time:				6970
+####setfreq time:				5421
+####setfreq time:				6899
+disp: 23
+####setfreq time:				9188
+temp: 640
+####setfreq time:				7770
+####setfreq time:				5381
+####setfreq time:				6908
+####setfreq time:				5426
+disp: 14
+####setfreq time:				6985
+####setfreq time:				5327
+####setfreq time:				6857
+####setfreq time:				5400
+disp: 15
+temp: 618
+####setfreq time:				6921
+####setfreq time:				5384
+####setfreq time:				6998
+####setfreq time:				5498
+disp: 17
+####setfreq time:				7051
+####setfreq time:				5432
+####setfreq time:				7028
+####setfreq time:				5408
+disp: 14
+temp: 600
+####setfreq time:				7045
+####setfreq time:				5449
+####setfreq time:				7002
+####setfreq time:				5429
+disp: 16
+####setfreq time:				6937
+####setfreq time:				5487
+####setfreq time:				7166
+####setfreq time:				5464
+disp: 19
+temp: 2496
+####setfreq time:				7092
+####setfreq time:				5491
+####setfreq time:				6982
+####setfreq time:				5460
+disp: 14
+####setfreq time:				7102
+####setfreq time:				5467
+####setfreq time:				7021
+####setfreq time:				5423
+disp: 16
+temp: 562
+####setfreq time:				6973
+####setfreq time:				5434
+####setfreq time:				7006
+####setfreq time:				5425
+disp: 14
+####setfreq time:				6981
+####setfreq time:				5547
+####setfreq time:				7147
+####setfreq time:				5517
+disp: 14
+temp: 591
+####setfreq time:				7018
+####setfreq time:				5514
+####setfreq time:				6968
+####setfreq time:				5732
+disp: 13
+####setfreq time:				6990
+####setfreq time:				5517
+####setfreq time:				7087
+temp: 431
+####setfreq time:				6171
+disp: 17
+####setfreq time:				7032
+####setfreq time:				5520
+####setfreq time:				6950
+####setfreq time:				5578
+disp: 14
+####setfreq time:				8450
+####setfreq time:				5557
+####setfreq time:				7044
+temp: 389
+####setfreq time:				5539
+disp: 16
+####setfreq time:				6994
+####setfreq time:				5503
+####setfreq time:				6951
+####setfreq time:				5547
+disp: 18
+####setfreq time:				7122
+####setfreq time:				5560
+####setfreq time:				6969
+temp: 411
+####setfreq time:				5447
+disp: 14
+####setfreq time:				7007
+####setfreq time:				5565
+####setfreq time:				7036
+####setfreq time:				5617
+disp: 16
+####setfreq time:				7116
+####setfreq time:				5539
+temp: 607
+####setfreq time:				7674
+####setfreq time:				5484
+disp: 14
+####setfreq time:				7062
+####setfreq time:				5510
+####setfreq time:				7141
+####setfreq time:				5510
+disp: 17
+####setfreq time:				7039
+####setfreq time:				5563
+temp: 615
+####setfreq time:				7952
+####setfreq time:				5533
+disp: 17
+####setfreq time:				7143
+####setfreq time:				6276
+####setfreq time:				7078
+####setfreq time:				5555
+disp: 13
+####setfreq time:				6997
+####setfreq time:				5627
+temp: 585
+####setfreq time:				7017
+####setfreq time:				5488
+disp: 16
+####setfreq time:				7048
+####setfreq time:				5490
+####setfreq time:				7245
+####setfreq time:				5547
+disp: 14
+####setfreq time:				7089
+####setfreq time:				5536
+temp: 585
+####setfreq time:				7171
+####setfreq time:				5499
+disp: 16
+####setfreq time:				7060
+####setfreq time:				5491
+####setfreq time:				7168
+####setfreq time:				5555
+disp: 13
+####setfreq time:				7100
+####setfreq time:				5522
+temp: 2331
+####setfreq time:				7122
+####setfreq time:				5503
+disp: 17
+####setfreq time:				7098
+####setfreq time:				5542
+####setfreq time:				7163
+####setfreq time:				5538
+disp: 14
+####setfreq time:				7126
+####setfreq time:				5498
+temp: 576
+####setfreq time:				7174
+####setfreq time:				5520
+disp: 17
+####setfreq time:				7136
+####setfreq time:				5573
+####setfreq time:				7160
+####setfreq time:				5500
+disp: 15
+####setfreq time:				7179
+temp: 445
+####setfreq time:				6104
+####setfreq time:				7220
+####setfreq time:				5648
+disp: 19
+####setfreq time:				7290
+####setfreq time:				5588
+####setfreq time:				7174
+####setfreq time:				5497
+disp: 16
+####setfreq time:				7271
+temp: 439
+####setfreq time:				5583
+####setfreq time:				7170
+####setfreq time:				5543
+disp: 14
+####setfreq time:				7155
+####setfreq time:				5547
+####setfreq time:				7184
+####setfreq time:				5509
+disp: 16
+####setfreq time:				7313
+temp: 423
+####setfreq time:				5585
+####setfreq time:				7175
+####setfreq time:				5578
+disp: 16
+####setfreq time:				7312
+####setfreq time:				5609
+####setfreq time:				9559
+####setfreq time:				5516
+disp: 14
+temp: 457
+####setfreq time:				7738
+####setfreq time:				5556
+####setfreq time:				7155
+####setfreq time:				5553
+disp: 18
+####setfreq time:				7216
+####setfreq time:				5580
+####setfreq time:				7177
+####setfreq time:				5510
+disp: 14
+temp: 696
+####setfreq time:				7904
+####setfreq time:				5497
+####setfreq time:				7174
+####setfreq time:				5450
+disp: 17
+####setfreq time:				7265
+####setfreq time:				5552
+####setfreq time:				7132
+####setfreq time:				5545
+disp: 18
+temp: 607
+####setfreq time:				7271
+####setfreq time:				5532
+####setfreq time:				7134
+####setfreq time:				5568
+disp: 17
+####setfreq time:				7162
+####setfreq time:				5528
+####setfreq time:				7231
+####setfreq time:				6940
+disp: 17
+temp: 607
+####setfreq time:				7151
+####setfreq time:				5520
+####setfreq time:				7144
+####setfreq time:				5551
+disp: 14
+####setfreq time:				7100
+####setfreq time:				5514
+####setfreq time:				7178
+####setfreq time:				5519
+disp: 15
+temp: 589
+####setfreq time:				7288
+####setfreq time:				5416
+####setfreq time:				7170
+####setfreq time:				5545
+disp: 14
+####setfreq time:				7115
+####setfreq time:				5541
+####setfreq time:				7205
+####setfreq time:				5531
+disp: 14
+temp: 564
+####setfreq time:				7206
+####setfreq time:				5504
+####setfreq time:				7084
+####setfreq time:				5471
+disp: 14
+####setfreq time:				7128
+####setfreq time:				5552
+####setfreq time:				7156
+temp: 476
+####setfreq time:				6079
+disp: 26
+####setfreq time:				7125
+####setfreq time:				5566
+####setfreq time:				7069
+####setfreq time:				5600
+disp: 13
+####setfreq time:				7135
+####setfreq time:				5503
+####setfreq time:				7172
+temp: 417
+####setfreq time:				5513
+disp: 14
+####setfreq time:				7063
+####setfreq time:				5447
+####setfreq time:				7073
+####setfreq time:				5449
+disp: 14
+####setfreq time:				7128
+####setfreq time:				5493
+####setfreq time:				7101
+temp: 403
+####setfreq time:				5481
+disp: 13
+####setfreq time:				7098
+####setfreq time:				5528
+####setfreq time:				7097
+####setfreq time:				5502
+disp: 14
+####setfreq time:				7043
+####setfreq time:				5532
+temp: 446
+####setfreq time:				7610
+####setfreq time:				5474
+disp: 14
+####setfreq time:				7100
+####setfreq time:				5517
+####setfreq time:				7095
+####setfreq time:				5467
+disp: 14
+####setfreq time:				7085
+####setfreq time:				5498
+temp: 648
+####setfreq time:				7923
+####setfreq time:				5490
+disp: 14
+####setfreq time:				8566
+####setfreq time:				5459
+####setfreq time:				7190
+####setfreq time:				5429
+disp: 15
+####setfreq time:				7102
+####setfreq time:				5444
+temp: 580
+####setfreq time:				7092
+####setfreq time:				5348
+disp: 15
+####setfreq time:				7020
+####setfreq time:				5503
+####setfreq time:				7091
+####setfreq time:				5454
+disp: 14
+####setfreq time:				7128
+####setfreq time:				5463
+temp: 591
+####setfreq time:				7062
+####setfreq time:				5496
+disp: 14
+####setfreq time:				7039
+####setfreq time:				5500
+####setfreq time:				7068
+####setfreq time:				5467
+disp: 14
+####setfreq time:				7095
+####setfreq time:				5489
+temp: 590
+####setfreq time:				7062
+####setfreq time:				5449
+disp: 15
+####setfreq time:				7108
+####setfreq time:				5489
+####setfreq time:				7069
+####setfreq time:				5488
+disp: 14
+####setfreq time:				7085
+####setfreq time:				6295
+temp: 597
+####setfreq time:				7108
+####setfreq time:				5510
+disp: 57
+####setfreq time:				7169
+####setfreq time:				5487
+####setfreq time:				7146
+####setfreq time:				5377
+disp: 14
+####setfreq time:				7062
+temp: 431
+####setfreq time:				6054
+####setfreq time:				7157
+####setfreq time:				5471
+disp: 14
+####setfreq time:				7095
+####setfreq time:				5516
+####setfreq time:				7108
+####setfreq time:				5481
+disp: 14
+####setfreq time:				7186
+temp: 474
+####setfreq time:				5464
+####setfreq time:				7134
+####setfreq time:				5415
+disp: 14
+####setfreq time:				7089
+####setfreq time:				5443
+####setfreq time:				7234
+####setfreq time:				5567
+disp: 14
+####setfreq time:				7277
+temp: 417
+####setfreq time:				5415
+####setfreq time:				7121
+####setfreq time:				5473
+disp: 14
+####setfreq time:				7149
+####setfreq time:				5495
+####setfreq time:				7247
+####setfreq time:				5508
+disp: 14
+temp: 588
+####setfreq time:				7902
+####setfreq time:				5344
+####setfreq time:				7123
+####setfreq time:				5486
+disp: 14
+####setfreq time:				7282
+####setfreq time:				5372
+####setfreq time:				7150
+####setfreq time:				5456
+disp: 13
+temp: 661
+####setfreq time:				8098
+####setfreq time:				5436
+####setfreq time:				7120
+####setfreq time:				5454
+disp: 17
+####setfreq time:				7177
+####setfreq time:				5392
+####setfreq time:				7163
+####setfreq time:				5404
+disp: 15
+temp: 618
+####setfreq time:				7263
+####setfreq time:				5377
+####setfreq time:				7129
+####setfreq time:				5451
+disp: 15
+####setfreq time:				7350
+####setfreq time:				5394
+####setfreq time:				7086
+####setfreq time:				5431
+disp: 17
+temp: 586
+####setfreq time:				7265
+####setfreq time:				5459
+####setfreq time:				8038
+####setfreq time:				5445
+disp: 14
+####setfreq time:				7195
+####setfreq time:				5330
+####setfreq time:				7140
+####setfreq time:				5362
+disp: 14
+temp: 588
+####setfreq time:				7255
+####setfreq time:				5448
+####setfreq time:				7144
+####setfreq time:				5338
+disp: 17
+####setfreq time:				7360
+####setfreq time:				5327
+####setfreq time:				7299
+####setfreq time:				5338
+disp: 16
+temp: 600
+####setfreq time:				7132
+####setfreq time:				5426
+####setfreq time:				7286
+####setfreq time:				5415
+disp: 14
+####setfreq time:				7125
+####setfreq time:				5416
+####setfreq time:				7189
+temp: 450
+####setfreq time:				5922
+disp: 17
+####setfreq time:				7166
+####setfreq time:				5348
+####setfreq time:				7210
+####setfreq time:				5492
+disp: 14
+####setfreq time:				7133
+####setfreq time:				5413
+####setfreq time:				7135
+temp: 606
+disp: 25
+####setfreq time:				7513
+####setfreq time:				7178
+####setfreq time:				5357
+####setfreq time:				7118
+####setfreq time:				5383
+disp: 18
+####setfreq time:				7141
+####setfreq time:				5391
+####setfreq time:				7063
+temp: 412
+####setfreq time:				5347
+disp: 17
+####setfreq time:				7111
+####setfreq time:				5385
+####setfreq time:				7074
+####setfreq time:				5458
+disp: 14
+####setfreq time:				7083
+####setfreq time:				5305
+temp: 612
+####setfreq time:				7742
+####setfreq time:				5290
+disp: 16
+####setfreq time:				7142
+####setfreq time:				5392
+####setfreq time:				7196
+####setfreq time:				5333
+disp: 14
+####setfreq time:				7138
+####setfreq time:				5396
+temp: 598
+####setfreq time:				7705
+####setfreq time:				5361
+disp: 18
+####setfreq time:				7042
+####setfreq time:				5404
+####setfreq time:				7109
+####setfreq time:				5361
+disp: 17
+####setfreq time:				7067
+####setfreq time:				5352
+temp: 598
+####setfreq time:				7092
+####setfreq time:				5424
+disp: 14
+####setfreq time:				7158
+####setfreq time:				5446
+####setfreq time:				7040
+####setfreq time:				5350
+disp: 17
+####setfreq time:				7122
+####setfreq time:				5389
+temp: 555
+####setfreq time:				7065
+####setfreq time:				5412
+disp: 14
+####setfreq time:				7022
+####setfreq time:				5395
+####setfreq time:				7140
+####setfreq time:				5304
+disp: 16
+####setfreq time:				7009
+####setfreq time:				5372
+temp: 583
+####setfreq time:				7116
+####setfreq time:				5408
+disp: 19
+####setfreq time:				7028
+####setfreq time:				5378
+####setfreq time:				7108
+####setfreq time:				5352
+disp: 16
+####setfreq time:				8906
+####setfreq time:				5361
+temp: 592
+####setfreq time:				7109
+####setfreq time:				5358
+disp: 14
+####setfreq time:				7008
+####setfreq time:				5346
+####setfreq time:				7120
+####setfreq time:				5373
+disp: 16
+####setfreq time:				7037
+temp: 413
+####setfreq time:				5908
+####setfreq time:				7086
+####setfreq time:				5331
+disp: 14
+####setfreq time:				7100
+####setfreq time:				5437
+####setfreq time:				6947
+####setfreq time:				5351
+disp: 17
+####setfreq time:				7087
+temp: 429
+####setfreq time:				5319
+####setfreq time:				6996
+####setfreq time:				5311
+disp: 17
+####setfreq time:				7059
+####setfreq time:				5361
+####setfreq time:				7071
+####setfreq time:				5334
+disp: 20
+####setfreq time:				7079
+temp: 420
+####setfreq time:				5347
+####setfreq time:				6989
+####setfreq time:				5360
+disp: 17
+####setfreq time:				7085
+####setfreq time:				6877
+####setfreq time:				7121
+####setfreq time:				5372
+disp: 21
+temp: 580
+####setfreq time:				7896
+####setfreq time:				5368
+####setfreq time:				6964
+####setfreq time:				5386
+disp: 41
+####setfreq time:				7083
+####setfreq time:				5385
+####setfreq time:				6981
+####setfreq time:				5276
+disp: 13
+temp: 593
+####setfreq time:				7054
+####setfreq time:				5401
+####setfreq time:				6975
+disp: 23
+####setfreq time:				5513
+####setfreq time:				7205
+####setfreq time:				5363
+####setfreq time:				7007
+disp: 25
+####setfreq time:				5497
+temp: 593
+####setfreq time:				6990
+####setfreq time:				5358
+####setfreq time:				6977
+disp: 24
+####setfreq time:				5558
+####setfreq time:				7111
+####setfreq time:				5457
+####setfreq time:				6983
+disp: 20
+####setfreq time:				5542
+temp: 577
+####setfreq time:				7061
+####setfreq time:				5410
+####setfreq time:				6970
+disp: 23
+####setfreq time:				5534
+####setfreq time:				7104
+####setfreq time:				5419
+####setfreq time:				7016
+####setfreq time:				5320
+disp: 17
+temp: 577
+####setfreq time:				7039
+####setfreq time:				5371
+####setfreq time:				7029
+####setfreq time:				disp: 19
+5424
+####setfreq time:				7015
+####setfreq time:				5334
+####setfreq time:				7021
+disp: 22
+####setfreq time:				5539
+temp: 572
+####setfreq time:				7035
+####setfreq time:				5466
+####setfreq time:				6956
+####setfreq time:				5388
+disp: 21
+####setfreq time:				7033
+####setfreq time:				5453
+####setfreq time:				7028
+temp: 430
+disp: 18
+####setfreq time:				6139
+####setfreq time:				7019
+####setfreq time:				5419
+####setfreq time:				7017
+disp: 23
+####setfreq time:				5684
+####setfreq time:				6984
+####setfreq time:				5483
+####setfreq time:				10321
+temp: 420
+####setfreq time:				5444
+disp: 22
+####setfreq time:				6946
+####setfreq time:				5503
+####setfreq time:				6845
+disp: 23
+####setfreq time:				5638
+####setfreq time:				6997
+####setfreq time:				5471
+####setfreq time:				6930
+temp: 421
+disp: 25
+####setfreq time:				5581
+####setfreq time:				6965
+####setfreq time:				5476
+####setfreq time:				6937
+disp: 21
+####setfreq time:				5600
+####setfreq time:				6949
+####setfreq time:				5418
+temp: 598
+####setfreq time:				7701
+####setfreq time:				5446
+disp: 40
+####setfreq time:				6897
+####setfreq time:				5529
+####setfreq time:				7049
+####setfreq time:				5452
+disp: 21
+####setfreq time:				7249
+####setfreq time:				5464
+temp: 634
+####setfreq time:				7053
+disp: 24
+####setfreq time:				6168
+####setfreq time:				6877
+####setfreq time:				5478
+####setfreq time:				6925
+disp: 22
+####setfreq time:				5530
+####setfreq time:				6955
+####setfreq time:				5432
+temp: 589
+####setfreq time:				6992
+####setfreq time:				5488
+disp: 20
+####setfreq time:				6934
+####setfreq time:				5468
+####setfreq time:				6907
+####setfreq time:				5454
+disp: 22
+####setfreq time:				6928
+####setfreq time:				5398
+temp: 593
+####setfreq time:				7012
+disp: 24
+####setfreq time:				5678
+####setfreq time:				6987
+####setfreq time:				5468
+####setfreq time:				6909
+####setfreq time:				disp: 40
+5462
+####setfreq time:				6908
+####setfreq time:				5430
+temp: 587
+####setfreq time:				6955
+disp: 21
+####setfreq time:				5404
+####setfreq time:				6932
+####setfreq time:				5417
+####setfreq time:				6902
+disp: 22
+####setfreq time:				5612
+####setfreq time:				6889
+####setfreq time:				5409
+temp: 587
+####setfreq time:				6859
+disp: 23
+####setfreq time:				5645
+####setfreq time:				6988
+####setfreq time:				5525
+####setfreq time:				6972
+disp: 20
+####setfreq time:				5619
+####setfreq time:				6996
+temp: 456
+####setfreq time:				6035
+####setfreq time:				6917
+disp: 22
+####setfreq time:				5702
+####setfreq time:				6982
+####setfreq time:				5520
+####setfreq time:				7002
+disp: 21
+####setfreq time:				5680
+####setfreq time:				6981
+temp: 418
+####setfreq time:				5389
+####setfreq time:				6944
+disp: 20
+####setfreq time:				5660
+####setfreq time:				8302
+####setfreq time:				5447
+####setfreq time:				6972
+####setfreq time:				5433
+disp: 17
+####setfreq time:				7024
+temp: 1898
+####setfreq time:				5479
+####setfreq time:				6943
+####setfreq time:				5465
+disp: 21
+####setfreq time:				6965
+####setfreq time:				5421
+####setfreq time:				7006
+####setfreq time:				5543
+disp: 21
+temp: 609
+####setfreq time:				7811
+####setfreq time:				5479
+####setfreq time:				6981
+####setfreq time:				5524
+disp: 17
+####setfreq time:				7240
+####setfreq time:				5479
+####setfreq time:				7150
+####setfreq time:				5522
+disp: 19
+temp: 564
+####setfreq time:				7147
+####setfreq time:				5448
+####setfreq time:				7117
+disp: 23
+####setfreq time:				5664
+####setfreq time:				7182
+####setfreq time:				5570
+####setfreq time:				7198
+disp: 24
+####setfreq time:				5598
+temp: 600
+####setfreq time:				7142
+####setfreq time:				5672
+####setfreq time:				7256
+disp: 20
+####setfreq time:				5627
+####setfreq time:				7145
+####setfreq time:				5518
+####setfreq time:				7194
+disp: 23
+####setfreq time:				5596
+temp: 595
+####setfreq time:				7128
+####setfreq time:				5461
+####setfreq time:				7210
+disp: 23
+####setfreq time:				5648
+####setfreq time:				7267
+####setfreq time:				5482
+####setfreq time:				7255
+disp: 23
+####setfreq time:				5556
+temp: 563
+####setfreq time:				7140
+####setfreq time:				5573
+####setfreq time:				7168
+disp: 23
+####setfreq time:				5690
+####setfreq time:				7251
+####setfreq time:				5561
+####setfreq time:				7108
+disp: 132
+####setfreq time:				5749
+temp: 614
+####setfreq time:				7122
+####setfreq time:				5510
+####setfreq time:				7144
+disp: 23
+####setfreq time:				5751
+####setfreq time:				7161
+####setfreq time:				5510
+####setfreq time:				7268
+temp: 422
+disp: 22
+####setfreq time:				6307
+####setfreq time:				7159
+####setfreq time:				5585
+####setfreq time:				7174
+disp: 22
+####setfreq time:				5687
+####setfreq time:				7153
+####setfreq time:				5553
+####setfreq time:				7214
+temp: 416
+disp: 24
+####setfreq time:				5752
+####setfreq time:				7194
+####setfreq time:				5586
+####setfreq time:				7249
+disp: 22
+####setfreq time:				5813
+####setfreq time:				7230
+####setfreq time:				5553
+####setfreq time:				7146
+temp: 413
+disp: 24
+####setfreq time:				5741
+####setfreq time:				7181
+####setfreq time:				5508
+####setfreq time:				7223
+disp: 24
+####setfreq time:				5778
+####setfreq time:				7175
+####setfreq time:				5469
+temp: 1005
+####setfreq time:				7960
+####setfreq time:				5533
+disp: 16
+####setfreq time:				7324
+####setfreq time:				5526
+####setfreq time:				9013
+####setfreq time:				5554
+disp: 22
+####setfreq time:				7191
+####setfreq time:				5558
+temp: 596
+####setfreq time:				7156
+disp: 24
+####setfreq time:				5663
+####setfreq time:				7180
+####setfreq time:				5540
+####setfreq time:				7243
+disp: 23
+####setfreq time:				5711
+####setfreq time:				7131
+####setfreq time:				5466
+temp: 631
+####setfreq time:				7185
+disp: 22
+####setfreq time:				5578
+####setfreq time:				7137
+####setfreq time:				5523
+####setfreq time:				7277
+####setfreq time:				5568
+disp: 22
+####setfreq time:				7229
+####setfreq time:				5511
+temp: 586
+####setfreq time:				7229
+disp: 49
+####setfreq time:				5723
+####setfreq time:				7068
+####setfreq time:				5526
+####setfreq time:				7231
+####setfreq time:				5579
+disp: 21
+####setfreq time:				7277
+####setfreq time:				5525
+temp: 580
+####setfreq time:				7177
+disp: 22
+####setfreq time:				5672
+####setfreq time:				7179
+####setfreq time:				5540
+####setfreq time:				7237
+disp: 19
+####setfreq time:				7368
+####setfreq time:				7200
+####setfreq time:				5557
+temp: 591
+TempWatcher 98 exiting wrapper...
+####setfreq time:				7339
+disp: 15
+####setfreq time:				7182
+####setfreq time:				5433
+####setfreq time:				7135
+disp: 17
+####setfreq time:				5615
+####setfreq time:				7053
+####setfreq time:				5400
+####setfreq time:				7036
+disp: 20
+####setfreq time:				5558
+####setfreq time:				7053
+####setfreq time:				5349
+####setfreq time:				7089
+disp: 18
+####setfreq time:				5545
+####setfreq time:				7097
+####setfreq time:				5433
+####setfreq time:				7054
+disp: 15
+####setfreq time:				5558
+####setfreq time:				7060
+####setfreq time:				5373
+####setfreq time:				7042
+disp: 19
+####setfreq time:				5566
+####setfreq time:				7063
+####setfreq time:				5450
+####setfreq time:				7133
+disp: 15
+####setfreq time:				5537
+####setfreq time:				7115
+####setfreq time:				5398
+####setfreq time:				7136
+disp: 15
+####setfreq time:				5645
+####setfreq time:				7153
+####setfreq time:				5373
+####setfreq time:				7170
+disp: 19
+####setfreq time:				5515
+####setfreq time:				7036
+####setfreq time:				5325
+####setfreq time:				7118
+disp: 15
+####setfreq time:				5486
+####setfreq time:				7098
+####setfreq time:				5340
+####setfreq time:				7098
+disp: 19
+####setfreq time:				5507
+####setfreq time:				7036
+####setfreq time:				5341
+####setfreq time:				7015
+disp: 19
+####setfreq time:				5465
+####setfreq time:				7010
+####setfreq time:				5291
+####setfreq time:				6970
+disp: 14
+####setfreq time:				5518
+####setfreq time:				7021
+####setfreq time:				5307
+####setfreq time:				6984
+disp: 19
+####setfreq time:				5431
+####setfreq time:				9020
+####setfreq time:				5303
+####setfreq time:				6971
+disp: 18
+####setfreq time:				5494
+####setfreq time:				6994
+####setfreq time:				5263
+####setfreq time:				7032
+disp: 14
+####setfreq time:				5482
+####setfreq time:				7086
+disp: 18

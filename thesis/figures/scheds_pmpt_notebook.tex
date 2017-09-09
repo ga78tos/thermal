@@ -1,0 +1,46 @@
+\begin{table}[htpb]
+ \centering
+ \begin{threeparttable}
+ \setlength\tabcolsep{3pt}
+ \caption[Single-Task Notebook schedules]{Notebook schedules for different single-task workloads}\label{app:t_pmpt_n}
+ \begin{tabular}{||c||l l l l l|l r||} 
+ \hline
+ Workload\tnote{a} & \multicolumn{5}{c|}{GMPT\tnote{b}} & \multicolumn{2}{c||}{PMPT\tnote{b}} \\ [0.5ex] 
+ \hline\hline
+  WL 1 & ((20, 0.8), & (2, 1)) & & & & ((2, 0), & (19, 1))\\
+ \hline
+ WL 2 & ((4, 0.6), & (5, 0.8), & (4, 0.6)) & & & ((7, 0), & (19, 1))\\
+ \hline
+ WL 3 & ((19, 0.6)) & & & & & ((17, 0), & (19, 1))\\
+ \hline
+ WL 4 & ((12, 0.6), & (6, 0.4)) & & & & ((11, 0), & (7, 1))\\
+ \hline
+ WL 5 & ((2, 0.4), & (26, 0.6), & (13, 0.4)) & & & ((25, 0), & (13, 1))\\
+ \hline
+ WL 6 & ((2, 0.6), & (44, 0.4), & (38, 0.6)) & & & ((32, 0), & (13, 1))\\
+ \hline
+ WL 7 & ((26, 0.4), & (10, 0.6), & (34, 0.4), & (10, 0.6)) & & ((37, 0), & (13, 1))\\
+ \hline
+ WL 8 & ((4, 0.6), & (16, 0.4), & (16, 0.6), & (44, 0.4)) & & ((46, 0), & (13, 1))\\
+ \hline
+ WL 9 & ((18, 0.4), & (9, 0.6), & (9, 0.4), & (1, 0.6), & (3, 0.4)) & ((52, 0), & (13, 1))\\
+ \hline
+ WL 10 & ((31, 0.4), & (6, 0.6), & (2, 0.8)) & & & ((33, 0), & (7, 1))\\
+ \hline
+ WL 11 & ((40, 0.4)) & & & & & ((38, 0), & (7, 1))\\
+ \hline
+ WL 12 & ((4, 0.6), & (6, 0.4), & (8, 0) & (11, 0.4), & (10, 0.6)) & ((43, 0), & (7, 1))\\
+ \hline
+ WL 13 & ((2, 0), & (38, 0.4)) & & & & ((48, 0), & (7, 1))\\
+ \hline
+ WL 14 & ((38, 0.4), & (10, 0), & (37, 0.4)) & & & ((53, 0), & (7, 1))\\
+ \hline
+ WL 15 & ((19, 0.6), & (12, 0.4), & (16, 0)) & & & ((58, 0), & (7, 1))\\
+ \hline
+\end{tabular}
+\begin{tablenotes}
+\item [a] Workload and the according schedules are sorted from highest to lowest.
+\item [b] Each schedule consists of timeslots represented as tuples in the format\\(<duration [ms]>, <frequency setting>).
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
